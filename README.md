@@ -25,7 +25,7 @@ No confidental projects, please.
 | Pulse Surveys | [Peakon](https://peakon.com/) |
 | Rageshake | [Instabug](https://instabug.com/) |
 | Room Tools | [Zoom Rooms](https://www.zoom.us/docs/doc/Zoom_Rooms_Scheduling_Display.pdf), [Eventboard](https://www.teem.com/display-apps/teem-conference-room-display/) |
-| Scuba           | [Honeycomb](https://www.honeycomb.io/), [Interana](https://www.interana.com/), [Looker](https://looker.com/), [MemSQL](https://www.memsql.com/), [Snorkel](https://snorkel.logv.org/), [Superset+Druid](https://www.youtube.com/watch?v=W_Sp4jo1ACg) (yt), [LocustDB](https://github.com/cswinter/LocustDB) |
+| Scuba           | [Honeycomb](https://www.honeycomb.io/), [Interana](https://www.interana.com/), [Looker](https://looker.com/), [MemSQL](https://www.memsql.com/), [Snorkel](https://snorkel.logv.org/), [Superset+Druid](https://www.youtube.com/watch?v=W_Sp4jo1ACg) (yt), [LocustDB](https://github.com/cswinter/LocustDB), [InfluxDB+Grafana](https://grafana.com/docs/grafana/latest/features/datasources/influxdb/) |
 | Scribe | [Apache Pulsar](https://pulsar.apache.org/), [Kafka](https://kafka.apache.org/), [Amazon Kinesis](https://aws.amazon.com/kinesis/) | 
 | SI/Site Integrity | [Haxl](https://github.com/facebook/Haxl) | 
 | Sitevar | [Consul.io](https://www.consul.io/) |
