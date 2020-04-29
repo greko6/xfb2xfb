@@ -12,6 +12,7 @@ No confidental projects, please.
 | Crash Reporting | [Firebase Crashlytics](https://firebase.google.com/docs/crashlytics) |
 | Cubism  | [Cubism](https://square.github.io/cubism/) | 
 | DataSwarm       | [AirFlow](https://airflow.apache.org/) |
+| Entities        | [ent](https://entgo.io/docs/getting-started/) |
 | Gatekeeper      | [LaunchDarkly](https://launchdarkly.com/) |
 | GraphQL | [GraphQL](https://graphql.org/) |
 | Hive | [BigQuery](https://cloud.google.com/bigquery) |
