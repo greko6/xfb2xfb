@@ -8,17 +8,23 @@ No confidental projects, please.
 | Facebook Internal | Open Source / Real-World                 |
 | --------------- | ---------------------------------------- |
 | BunnyLOL | [Jack Bunny](https://github.com/evensi/jack_bunny) |
+| CaptureTheFlag  | [CaptureTheFlag](https://github.com/facebookarchive/fbctf) | 
 | Codemod | [Codemod](https://github.com/facebook/codemod) |
 | Crash Reporting | [Firebase Crashlytics](https://firebase.google.com/docs/crashlytics) |
 | Cubism  | [Cubism](https://square.github.io/cubism/) | 
 | DataSwarm       | [AirFlow](https://airflow.apache.org/) |
+| FBNet | [NSOT](https://github.com/dropbox/nsot) | 
+| FBNet fcr | [FCR](https://github.com/facebookincubator/FCR) |
+| FBpush | [FBpush](https://github.com/facebookarchive/fbpush) | 
 | Entities        | [ent](https://entgo.io/docs/getting-started/) |
 | Gatekeeper      | [LaunchDarkly](https://launchdarkly.com/) |
 | GraphQL | [GraphQL](https://graphql.org/) |
 | Hive | [BigQuery](https://cloud.google.com/bigquery) |
 | Internal FB Groups | [Workplace](https://www.facebook.com/workplace) |
 | Internal Messenger | [Workplace](https://www.facebook.com/workplace), [Slack](https://www.slack.com) |
+| NetNorad | [NetNorad](https://github.com/fbsamples/OpenNetNorad) | 
 | ODS             | [SignalFX](https://www.signalfx.com/), [Datadog](https://www.datadoghq.com/), [Prometheus](https://prometheus.io/), [Splunk](https://www.splunk.com/), [Wavefront](https://www.wavefront.com/) |
+| Open/R  | [Open/R](https://github.com/facebook/openr)   |
 | pfff            | [pfff](https://github.com/returntocorp/pfff)
 | Phabricator     | [Phabricator](https://github.com/phacility/phabricator) |
 | Presto | [PrestoDB](https://prestodb.io/) |
@@ -33,6 +39,7 @@ No confidental projects, please.
 | TAO | [Neptune](https://aws.amazon.com/neptune/), [RedisGraph](https://oss.redislabs.com/redisgraph/), [dgraph](https://dgraph.io/), [Neo4j](https://neo4j.com/) | 
 | Tasks | [Asana](https://asana.com/) , [Maniphest](https://github.com/phacility/phabricator) (inside Phabricator) | 
 | TBGS | [Sourcegraph](https://about.sourcegraph.com/), [LiveGrep](https://github.com/livegrep/livegrep), [SilverSearcher](https://github.com/ggreer/the_silver_searcher) |
+| TracerT | [TracerT](https://github.com/facebook/fbtracert) | 
 | Tupperware | [Docker](https://www.docker.com/), [Kubernetes](https://kubernetes.io/) |
 | Thrift | [Thrift](https://github.com/apache/thrift) |
 | Unicorn         | [Rockset](https://rockset.com/) |
