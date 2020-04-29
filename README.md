@@ -10,6 +10,7 @@ No confidental projects, please.
 | BunnyLOL | [Jack Bunny](https://github.com/evensi/jack_bunny) |
 | Codemod | [Codemod](https://github.com/facebook/codemod) |
 | Crash Reporting | [Firebase Crashlytics](https://firebase.google.com/docs/crashlytics) |
+| Cubism  | [Cubism](https://square.github.io/cubism/) | 
 | DataSwarm       | [AirFlow](https://airflow.apache.org/) |
 | Gatekeeper      | [LaunchDarkly](https://launchdarkly.com/) |
 | GraphQL | [GraphQL](https://graphql.org/) |
