@@ -11,6 +11,7 @@ No confidental projects, please.
 | Codemod | [Codemod](https://github.com/facebook/codemod) |
 | Crash Reporting | [Firebase Crashlytics](https://firebase.google.com/docs/crashlytics) |
 | DataSwarm       | [AirFlow](https://airflow.apache.org/) |
+| Entities        | [ent](https://entgo.io/docs/getting-started/) |
 | Gatekeeper      | [LaunchDarkly](https://launchdarkly.com/) |
 | GraphQL | [GraphQL](https://graphql.org/) |
 | Hive | [BigQuery](https://cloud.google.com/bigquery) |
