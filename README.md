@@ -5,9 +5,9 @@ No confidental projects, please.
 
 ## Technology
 
-| Facebook Internal | Open Source / Real-World                 |
-| --------------- | ---------------------------------------- |
-| BunnyLOL | [Jack Bunny](https://github.com/evensi/jack_bunny) |
+| Facebook Internal | Open Source / Real-World                 | Cloud / Commercial      | Notes          |
+| ----------------- | ---------------------------------------- | ----------------------- | -------------- |
+| BunnyLOL | [Jack Bunny](https://github.com/evensi/jack_bunny) | | |
 | CaptureTheFlag  | [CaptureTheFlag](https://github.com/facebookarchive/fbctf) | 
 | Codemod | [Codemod](https://github.com/facebook/codemod) |
 | Crash Reporting | [Firebase Crashlytics](https://firebase.google.com/docs/crashlytics) |
@@ -17,8 +17,8 @@ No confidental projects, please.
 | FBNet fcr | [FCR](https://github.com/facebookincubator/FCR) |
 | FBpush | [FBpush](https://github.com/facebookarchive/fbpush) | 
 | Entities        | [ent](https://entgo.io/docs/getting-started/) |
-| Gatekeeper      | [LaunchDarkly](https://launchdarkly.com/) |
-| GraphQL | [GraphQL](https://graphql.org/) |
+| Gatekeeper      | | [LaunchDarkly](https://launchdarkly.com/) | |
+| GraphQL | [GraphQL](https://graphql.org/) | [Dgraph](https://dgraph.io) [Hashura](https://hasura.io/) | Hashura is graphQL on postgres in Haskell, Dgraph is graphQL with a scalable graph database with Raft in Go |
 | Hive | [BigQuery](https://cloud.google.com/bigquery) |
 | Internal FB Groups | [Workplace](https://www.facebook.com/workplace) |
 | Internal Messenger | [Workplace](https://www.facebook.com/workplace), [Slack](https://www.slack.com) |
