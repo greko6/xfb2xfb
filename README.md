@@ -50,4 +50,4 @@ Inspired by: [xg2xg](https://github.com/jhuangtw-dev/xg2xg), [Venkat V Note (pri
 
 ## Scuba
 
-Scuba provides deep dive analytics, especially into high cardinality data as opposed metrics/charts. Honeycomb.io is a commerical venture by xfb Charity Majors. 
+Scuba provides deep dive analytics, especially into high cardinality data as opposed metrics/charts. Honeycomb.io is a commercial venture by xfb Charity Majors. 
