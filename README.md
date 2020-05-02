@@ -18,7 +18,7 @@ Inspired by: [xg2xg](https://github.com/jhuangtw-dev/xg2xg), [Venkat V Note (pri
 | FBNet | [NSOT](https://github.com/dropbox/nsot) | 
 | FBNet fcr | [FCR](https://github.com/facebookincubator/FCR) |
 | FBpush | [FBpush](https://github.com/facebookarchive/fbpush) | 
-| FBTrace | [Jaegar](https://www.jaegertracing.io/), Zipkin, LightStep |
+| FBTrace | [Jaegar](https://www.jaegertracing.io/), [Zipkin](https://zipkin.io/), [LightStep](https://lightstep.com/) |
 | Entities        | [ent](https://entgo.io/docs/getting-started/) |
 | Gatekeeper      | [LaunchDarkly](https://launchdarkly.com/) |
 | GraphQL | [GraphQL](https://graphql.org/) |
