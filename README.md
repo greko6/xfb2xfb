@@ -15,12 +15,13 @@ Inspired by: [xg2xg](https://github.com/jhuangtw-dev/xg2xg), [Venkat V Note (pri
 | Crash Reporting | [Firebase Crashlytics](https://firebase.google.com/docs/crashlytics) |
 | Cubism  | [Cubism](https://square.github.io/cubism/) | 
 | DataSwarm       | [AirFlow](https://airflow.apache.org/) |
+| Deltoid | [Google Optimize](https://marketingplatform.google.com/about/optimize/) |
 | FBNet | [NSOT](https://github.com/dropbox/nsot) | 
 | FBNet fcr | [FCR](https://github.com/facebookincubator/FCR) |
 | FBpush | [FBpush](https://github.com/facebookarchive/fbpush) | 
 | FBTrace | [Jaegar](https://www.jaegertracing.io/), [Zipkin](https://zipkin.io/), [LightStep](https://lightstep.com/) |
 | Entities        | [ent](https://entgo.io/docs/getting-started/) |
-| Gatekeeper      | [LaunchDarkly](https://launchdarkly.com/) |
+| Gatekeeper      | [LaunchDarkly](https://launchdarkly.com/), [Google Optimize](https://marketingplatform.google.com/about/optimize/) |
 | GraphQL | [GraphQL](https://graphql.org/) |
 | Hive | [BigQuery](https://cloud.google.com/bigquery) |
 | Internal FB Groups | [Workplace](https://www.facebook.com/workplace) |
