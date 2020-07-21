@@ -50,7 +50,7 @@ Inspired by: [xg2xg](https://github.com/jhuangtw-dev/xg2xg), [Venkat V Note (pri
 | Unicorn         | [Rockset](https://rockset.com/) |
 | Unidash | [Grafana](https://www.grafana.com/), [Looker](https://looker.com/) |
 | Workday | [Charlie HR](https://www.charliehr.com/), [Hibob](https://www.hibob.com/) |
-| ZippyDB | [[Consul (Dgraph)](https://www.consul.io/) , [Badger](https://github.com/dgraph-io/badger) | Key-Value stores based on Raft which scale horizontally. Consul provides service discovery. |
+| ZippyDB | [Badger (Dgraph)](https://github.com/dgraph-io/badger) | [Consul (Hashicorp)](https://www.consul.io/) | Key-Value stores based on Raft which scale horizontally. Consul provides service discovery. |
 
 ## Scuba
 
