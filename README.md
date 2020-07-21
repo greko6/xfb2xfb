@@ -38,6 +38,7 @@ Inspired by: [xg2xg](https://github.com/jhuangtw-dev/xg2xg), [Venkat V Note (pri
 | Room Tools | [Zoom Rooms](https://www.zoom.us/docs/doc/Zoom_Rooms_Scheduling_Display.pdf), [Eventboard](https://www.teem.com/display-apps/teem-conference-room-display/) |
 | Scuba | [Honeycomb](https://www.honeycomb.io/) (SaaS, exfb), [Interana](https://www.interana.com/), [Looker](https://looker.com/), [MemSQL](https://www.memsql.com/), [Snorkel](https://snorkel.logv.org/), [Superset+Druid](https://www.youtube.com/watch?v=W_Sp4jo1ACg) (yt), [LocustDB](https://github.com/cswinter/LocustDB), [InfluxDB+Grafana](https://grafana.com/docs/grafana/latest/features/datasources/influxdb/) |
 | Scribe | [Apache Pulsar](https://pulsar.apache.org/), [Kafka](https://kafka.apache.org/), [Amazon Kinesis](https://aws.amazon.com/kinesis/) | 
+| SEV Manager | [Kintaba](https://kintaba.com) |
 | SI/Site Integrity | [Haxl](https://github.com/facebook/Haxl) | 
 | Sitevar | [Consul.io](https://www.consul.io/) |
 | TAO | [Neptune](https://aws.amazon.com/neptune/), [RedisGraph](https://oss.redislabs.com/redisgraph/), [dgraph](https://dgraph.io/), [Neo4j](https://neo4j.com/) | 
