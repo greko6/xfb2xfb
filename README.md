@@ -7,11 +7,12 @@ Inspired by: [xg2xg](https://github.com/jhuangtw-dev/xg2xg), [Venkat V Note (pri
 
 ## Technology
 
-| Facebook Internal | Open Source / Real-World                 |
-| --------------- | ---------------------------------------- |
-| BunnyLOL | [Jack Bunny](https://github.com/evensi/jack_bunny), [Gopherlol](https://github.com/markusdosch/gopherlol) |
+| Facebook Internal | Open Source / Real-World                 | Cloud / Commercial      | Notes          |
+| ----------------- | ---------------------------------------- | ----------------------- | -------------- |
+| BunnyLOL | [Jack Bunny](https://github.com/evensi/jack_bunny), [Gopherlol](https://github.com/markusdosch/gopherlol) | | |
 | CaptureTheFlag  | [CaptureTheFlag](https://github.com/facebookarchive/fbctf) | 
 | Codemod | [Codemod](https://github.com/facebook/codemod) |
+| Configerator | [Protoconf](https://github.com/protoconf/protoconf) | | |
 | Crash Reporting | [Firebase Crashlytics](https://firebase.google.com/docs/crashlytics) |
 | Cubism  | [Cubism](https://square.github.io/cubism/) | 
 | DataSwarm       | [AirFlow](https://airflow.apache.org/) |
@@ -21,8 +22,8 @@ Inspired by: [xg2xg](https://github.com/jhuangtw-dev/xg2xg), [Venkat V Note (pri
 | FBpush | [FBpush](https://github.com/facebookarchive/fbpush) | 
 | FBTrace | [Jaegar](https://www.jaegertracing.io/), [Zipkin](https://zipkin.io/), [LightStep](https://lightstep.com/) |
 | Entities        | [ent](https://entgo.io/docs/getting-started/) |
-| Gatekeeper      | [LaunchDarkly](https://launchdarkly.com/), [Google Optimize](https://marketingplatform.google.com/about/optimize/) |
-| GraphQL | [GraphQL](https://graphql.org/) |
+| Gatekeeper      | | [LaunchDarkly](https://launchdarkly.com/), [Google Optimize](https://marketingplatform.google.com/about/optimize/) | |
+| GraphQL | [GraphQL](https://graphql.org/) | [Dgraph](https://dgraph.io) [Hashura](https://hasura.io/) | Hashura is graphQL on postgres in Haskell, Dgraph is graphQL with a scalable graph database with Raft in Go |
 | Hive | [BigQuery](https://cloud.google.com/bigquery) |
 | Internal FB Groups | [Workplace](https://www.facebook.com/workplace) |
 | Internal Messenger | [Workplace](https://www.facebook.com/workplace), [Slack](https://www.slack.com) |
@@ -45,11 +46,12 @@ Inspired by: [xg2xg](https://github.com/jhuangtw-dev/xg2xg), [Venkat V Note (pri
 | Tasks | [Asana](https://asana.com/) , [Maniphest](https://github.com/phacility/phabricator) (inside Phabricator) | 
 | TBGS | [Sourcegraph](https://about.sourcegraph.com/), [LiveGrep](https://github.com/livegrep/livegrep), [SilverSearcher](https://github.com/ggreer/the_silver_searcher) |
 | TracerT | [TracerT](https://github.com/facebook/fbtracert) | 
-| Tupperware | [Docker](https://www.docker.com/), [Kubernetes](https://kubernetes.io/) |
+| Tupperware | [Docker](https://www.docker.com/), [Kubernetes](https://kubernetes.io/) | [Nomad](https://www.nomadproject.io/)
 | Thrift | [Thrift](https://github.com/apache/thrift) |
 | Unicorn         | [Rockset](https://rockset.com/) |
 | Unidash | [Grafana](https://www.grafana.com/), [Looker](https://looker.com/) |
 | Workday | [Charlie HR](https://www.charliehr.com/), [Hibob](https://www.hibob.com/) |
+| ZippyDB | [Badger (Dgraph)](https://github.com/dgraph-io/badger) | [Consul (Hashicorp)](https://www.consul.io/) | Key-Value stores based on Raft which scale horizontally. Consul provides service discovery. |
 
 ## Scuba
 
