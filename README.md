@@ -10,6 +10,7 @@ No confidental projects, please.
 | BunnyLOL | [Jack Bunny](https://github.com/evensi/jack_bunny) | | |
 | CaptureTheFlag  | [CaptureTheFlag](https://github.com/facebookarchive/fbctf) | 
 | Codemod | [Codemod](https://github.com/facebook/codemod) |
+| Configerator | [Protoconf](https://github.com/protoconf/protoconf) | | |
 | Crash Reporting | [Firebase Crashlytics](https://firebase.google.com/docs/crashlytics) |
 | Cubism  | [Cubism](https://square.github.io/cubism/) | 
 | DataSwarm       | [AirFlow](https://airflow.apache.org/) |
@@ -40,7 +41,7 @@ No confidental projects, please.
 | Tasks | [Asana](https://asana.com/) , [Maniphest](https://github.com/phacility/phabricator) (inside Phabricator) | 
 | TBGS | [Sourcegraph](https://about.sourcegraph.com/), [LiveGrep](https://github.com/livegrep/livegrep), [SilverSearcher](https://github.com/ggreer/the_silver_searcher) |
 | TracerT | [TracerT](https://github.com/facebook/fbtracert) | 
-| Tupperware | [Docker](https://www.docker.com/), [Kubernetes](https://kubernetes.io/) |
+| Tupperware | [Docker](https://www.docker.com/), [Kubernetes](https://kubernetes.io/) | [Nomad](https://www.nomadproject.io/)
 | Thrift | [Thrift](https://github.com/apache/thrift) |
 | Unicorn         | [Rockset](https://rockset.com/) |
 | Unidash | [Grafana](https://www.grafana.com/), [Looker](https://looker.com/) |
