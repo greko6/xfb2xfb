@@ -9,6 +9,7 @@ Inspired by: [xg2xg](https://github.com/jhuangtw-dev/xg2xg), [Venkat V Note (pri
 
 | Facebook Internal | Open Source / Real-World                 | Cloud / Commercial      | Notes          |
 | ----------------- | ---------------------------------------- | ----------------------- | -------------- |
+| Buck | [Buck](https://buck.build/), [Pants](https://www.pantsbuild.org/docs) | | |
 | BunnyLOL | [Jack Bunny](https://github.com/evensi/jack_bunny), [Gopherlol](https://github.com/markusdosch/gopherlol) | | |
 | CaptureTheFlag  | [CaptureTheFlag](https://github.com/facebookarchive/fbctf) | 
 | Codemod | [Codemod](https://github.com/facebook/codemod) |
