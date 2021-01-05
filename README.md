@@ -42,7 +42,7 @@ Inspired by: [xg2xg](https://github.com/jhuangtw-dev/xg2xg), [Venkat V Note (pri
 | Scribe | [Apache Pulsar](https://pulsar.apache.org/), [Kafka](https://kafka.apache.org/), [Amazon Kinesis](https://aws.amazon.com/kinesis/) | 
 | SEV Manager | [Kintaba](https://kintaba.com) |
 | SI/Site Integrity | [Haxl](https://github.com/facebook/Haxl) | 
-| Sitevar | [Consul.io](https://www.consul.io/) |
+| Sitevar | [Consul.io](https://www.consul.io/), [Etcd](https://www.etcd.io)|
 | TAO | [Neptune](https://aws.amazon.com/neptune/), [RedisGraph](https://oss.redislabs.com/redisgraph/), [dgraph](https://dgraph.io/), [Neo4j](https://neo4j.com/) | 
 | Tasks | [Asana](https://asana.com/) , [Maniphest](https://github.com/phacility/phabricator) (inside Phabricator) | 
 | TBGS | [Sourcegraph](https://about.sourcegraph.com/), [LiveGrep](https://github.com/livegrep/livegrep), [SilverSearcher](https://github.com/ggreer/the_silver_searcher) |
@@ -52,7 +52,7 @@ Inspired by: [xg2xg](https://github.com/jhuangtw-dev/xg2xg), [Venkat V Note (pri
 | Unicorn         | [Rockset](https://rockset.com/) |
 | Unidash | [Grafana](https://www.grafana.com/), [Looker](https://looker.com/) |
 | Workday | [Charlie HR](https://www.charliehr.com/), [Hibob](https://www.hibob.com/) |
-| ZippyDB | [Badger (Dgraph)](https://github.com/dgraph-io/badger) | [Consul (Hashicorp)](https://www.consul.io/) | Key-Value stores based on Raft which scale horizontally. Consul provides service discovery. |
+| ZippyDB | [Badger (Dgraph)](https://github.com/dgraph-io/badger) | [Consul (Hashicorp)](https://www.consul.io/), [Etcd](https://www.etcd.io) | Key-Value stores based on Raft which scale horizontally. Consul provides service discovery. |
 
 ## Scuba
 
