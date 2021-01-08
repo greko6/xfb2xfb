@@ -26,6 +26,7 @@ Inspired by: [xg2xg](https://github.com/jhuangtw-dev/xg2xg), [Venkat V Note (pri
 | Gatekeeper      | | [LaunchDarkly](https://launchdarkly.com/), [Google Optimize](https://marketingplatform.google.com/about/optimize/), [Bullet Train](https://bullet-train.io/) | |
 | GraphQL | [GraphQL](https://graphql.org/) | [Dgraph](https://dgraph.io) [Hashura](https://hasura.io/) | Hashura is graphQL on postgres in Haskell, Dgraph is graphQL with a scalable graph database with Raft in Go |
 | Hive | [BigQuery](https://cloud.google.com/bigquery) |
+| Hipster | [Casbin] (https://casbin.org/ )[Keycloak](https://www.keycloak.org/) |
 | Internal FB Groups | [Workplace](https://www.facebook.com/workplace) |
 | Internal Messenger | [Workplace](https://www.facebook.com/workplace), [Slack](https://www.slack.com) |
 | NetNorad | [NetNorad](https://github.com/fbsamples/OpenNetNorad) | 
