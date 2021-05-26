@@ -27,8 +27,8 @@ Inspired by: [xg2xg](https://github.com/jhuangtw-dev/xg2xg), [Venkat V Note (pri
 | GraphQL | [GraphQL](https://graphql.org/) | [Dgraph](https://dgraph.io) [Hashura](https://hasura.io/) | Hashura is graphQL on postgres in Haskell, Dgraph is graphQL with a scalable graph database with Raft in Go |
 | Hive | [BigQuery](https://cloud.google.com/bigquery) |
 | Hipster | [Casbin](https://casbin.org/), [Keycloak](https://www.keycloak.org/) |
-| Internal FB Groups | [Workplace](https://www.facebook.com/workplace), [Threads](https://threads.com/) exfb |
-| Internal Messenger | [Workplace](https://www.facebook.com/workplace), [Slack](https://www.slack.com), [Threads](https://threads.com/) exfb |
+| Internal FB Groups | [Workplace](https://www.facebook.com/workplace), [Threads](https://threads.com/) (exfb) |
+| Internal Messenger | [Workplace](https://www.facebook.com/workplace), [Slack](https://www.slack.com), [Threads](https://threads.com/) (exfb) |
 | NetNorad | [NetNorad](https://github.com/fbsamples/OpenNetNorad) | 
 | ODS             | [SignalFX](https://www.signalfx.com/), [Datadog](https://www.datadoghq.com/), [Prometheus](https://prometheus.io/), [Splunk](https://www.splunk.com/), [Wavefront](https://www.wavefront.com/) |
 | Open/R  | [Open/R](https://github.com/facebook/openr)   |
