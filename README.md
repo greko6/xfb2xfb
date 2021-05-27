@@ -17,18 +17,18 @@ Inspired by: [xg2xg](https://github.com/jhuangtw-dev/xg2xg), [Venkat V Note (pri
 | Crash Reporting | [Firebase Crashlytics](https://firebase.google.com/docs/crashlytics) |
 | Cubism  | [Cubism](https://square.github.io/cubism/) | 
 | DataSwarm       | [AirFlow](https://airflow.apache.org/) |
-| Deltoid | [Google Optimize](https://marketingplatform.google.com/about/optimize/) |
+| Deltoid | [Statsig](https://www.statsig.com), [Google Optimize](https://marketingplatform.google.com/about/optimize/)|
 | FBNet | [NSOT](https://github.com/dropbox/nsot) | 
 | FBNet fcr | [FCR](https://github.com/facebookincubator/FCR) |
 | FBpush | [FBpush](https://github.com/facebookarchive/fbpush) | 
 | FBTrace | [Jaegar](https://www.jaegertracing.io/), [Zipkin](https://zipkin.io/), [LightStep](https://lightstep.com/) |
 | Entities        | [ent](https://entgo.io/docs/getting-started/) |
-| Gatekeeper      | | [LaunchDarkly](https://launchdarkly.com/), [Google Optimize](https://marketingplatform.google.com/about/optimize/), [Bullet Train](https://bullet-train.io/) | |
+| Gatekeeper      | [Statsig](https://www.statsig.com/) (SaaS, exfb) | [LaunchDarkly](https://launchdarkly.com/), [Google Optimize](https://marketingplatform.google.com/about/optimize/), [Bullet Train](https://bullet-train.io/) | |
 | GraphQL | [GraphQL](https://graphql.org/) | [Dgraph](https://dgraph.io) [Hashura](https://hasura.io/) | Hashura is graphQL on postgres in Haskell, Dgraph is graphQL with a scalable graph database with Raft in Go |
 | Hive | [BigQuery](https://cloud.google.com/bigquery) |
 | Hipster | [Casbin](https://casbin.org/), [Keycloak](https://www.keycloak.org/) |
-| Internal FB Groups | [Workplace](https://www.facebook.com/workplace) |
-| Internal Messenger | [Workplace](https://www.facebook.com/workplace), [Slack](https://www.slack.com) |
+| Internal FB Groups | [Workplace](https://www.facebook.com/workplace), [Threads](https://threads.com/) (exfb) |
+| Internal Messenger | [Workplace](https://www.facebook.com/workplace), [Slack](https://www.slack.com), [Threads](https://threads.com/) (exfb) |
 | NetNorad | [NetNorad](https://github.com/fbsamples/OpenNetNorad) | 
 | ODS             | [SignalFX](https://www.signalfx.com/), [Datadog](https://www.datadoghq.com/), [Prometheus](https://prometheus.io/), [Splunk](https://www.splunk.com/), [Wavefront](https://www.wavefront.com/) |
 | Open/R  | [Open/R](https://github.com/facebook/openr)   |
