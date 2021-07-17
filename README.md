@@ -25,18 +25,19 @@ Inspired by: [xg2xg](https://github.com/jhuangtw-dev/xg2xg), [Venkat V Note (pri
 | Entities        | [ent](https://entgo.io/docs/getting-started/) |
 | Gatekeeper      | [Statsig](https://www.statsig.com/) (SaaS, exfb) | [LaunchDarkly](https://launchdarkly.com/), [Google Optimize](https://marketingplatform.google.com/about/optimize/), [Bullet Train](https://bullet-train.io/) | |
 | GraphQL | [GraphQL](https://graphql.org/) | [Dgraph](https://dgraph.io) [Hashura](https://hasura.io/) | Hashura is graphQL on postgres in Haskell, Dgraph is graphQL with a scalable graph database with Raft in Go |
-| Hive | [BigQuery](https://cloud.google.com/bigquery) |
+| Hive | | [BigQuery](https://cloud.google.com/bigquery) |
 | Hipster | [Casbin](https://casbin.org/), [Keycloak](https://www.keycloak.org/) |
-| Internal FB Groups | [Workplace](https://www.facebook.com/workplace), [Threads](https://threads.com/) (exfb) |
-| Internal Messenger | [Workplace](https://www.facebook.com/workplace), [Slack](https://www.slack.com), [Threads](https://threads.com/) (exfb) |
+| Internal FB Groups | | [Workplace](https://www.facebook.com/workplace), [Threads](https://threads.com/) (exfb) |
+| Internal Messenger | | [Workplace](https://www.facebook.com/workplace), [Slack](https://www.slack.com), [Threads](https://threads.com/) (exfb) |
+| Internal Profiles | | [Pingboard](https://pingboard.com/) |
 | NetNorad | [NetNorad](https://github.com/fbsamples/OpenNetNorad) | 
-| ODS             | [SignalFX](https://www.signalfx.com/), [Datadog](https://www.datadoghq.com/), [Prometheus](https://prometheus.io/), [Splunk](https://www.splunk.com/), [Wavefront](https://www.wavefront.com/) |
+| ODS             | [Prometheus](https://prometheus.io/) | [SignalFX](https://www.signalfx.com/), [Datadog](https://www.datadoghq.com/), [Splunk](https://www.splunk.com/), [Wavefront](https://www.wavefront.com/) |
 | Open/R  | [Open/R](https://github.com/facebook/openr)   |
 | pfff            | [pfff](https://github.com/returntocorp/pfff)
 | Phabricator     | [Phabricator](https://github.com/phacility/phabricator) |
 | Presto | [PrestoDB](https://prestodb.io/) |
-| PSC | [Lattice](https://lattice.com/) |
-| Pulse Surveys | [Peakon](https://peakon.com/) |
+| PSC | | [Lattice](https://lattice.com/) |
+| Pulse Surveys | | [Peakon](https://peakon.com/), [Glint](https://www.glintinc.com/) |
 | Rageshake | [Instabug](https://instabug.com/) |
 | Room Tools | [Zoom Rooms](https://www.zoom.us/docs/doc/Zoom_Rooms_Scheduling_Display.pdf), [Eventboard](https://www.teem.com/display-apps/teem-conference-room-display/) |
 | Scuba | [Honeycomb](https://www.honeycomb.io/) (SaaS, exfb), [Interana](https://www.interana.com/), [Looker](https://looker.com/), [MemSQL](https://www.memsql.com/), [Snorkel](https://snorkel.logv.org/), [Superset+Druid](https://www.youtube.com/watch?v=W_Sp4jo1ACg) (yt), [LocustDB](https://github.com/cswinter/LocustDB), [InfluxDB+Grafana](https://grafana.com/docs/grafana/latest/features/datasources/influxdb/) |
@@ -52,8 +53,8 @@ Inspired by: [xg2xg](https://github.com/jhuangtw-dev/xg2xg), [Venkat V Note (pri
 | Tupperware | [Docker](https://www.docker.com/), [Kubernetes](https://kubernetes.io/) | [Nomad](https://www.nomadproject.io/)
 | Thrift | [GRPC](https://grpc.io/), [Thrift](https://github.com/apache/thrift) |
 | Unicorn         | [Rockset](https://rockset.com/) |
-| Unidash | [Grafana](https://www.grafana.com/), [Looker](https://looker.com/) |
-| Workday | [Charlie HR](https://www.charliehr.com/), [Hibob](https://www.hibob.com/) |
+| Unidash | [Grafana](https://www.grafana.com/) | [Looker](https://looker.com/) |
+| Workday | | [Workday](https://workday.com), [Charlie HR](https://www.charliehr.com/), [Hibob](https://www.hibob.com/) |
 | ZippyDB | [Badger (Dgraph)](https://github.com/dgraph-io/badger) | [Consul (Hashicorp)](https://www.consul.io/), [Etcd](https://www.etcd.io) | Key-Value stores based on Raft which scale horizontally. Consul provides service discovery. |
 
 ## Scuba
