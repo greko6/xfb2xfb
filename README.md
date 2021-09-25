@@ -58,7 +58,3 @@ Inspired by: [xg2xg](https://github.com/jhuangtw-dev/xg2xg), [Venkat V Note (pri
 | Workday | | [Workday](https://workday.com), [Charlie HR](https://www.charliehr.com/), [Hibob](https://www.hibob.com/) |
 | ZippyDB | [Badger (Dgraph)](https://github.com/dgraph-io/badger) | [Consul (Hashicorp)](https://www.consul.io/), [Etcd](https://www.etcd.io) | Key-Value stores based on Raft which scale horizontally. Consul provides service discovery. |
 
-## Scuba
-
-Scuba provides deep dive analytics, especially into high cardinality data as opposed metrics/charts. Honeycomb.io is a commercial venture by xfb Charity Majors. 
-See also: [xfb discussion](https://www.facebook.com/groups/exfaceeng/posts/4015367975250306/)
