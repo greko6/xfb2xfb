@@ -16,6 +16,7 @@ Inspired by: [xg2xg](https://github.com/jhuangtw-dev/xg2xg), [Venkat V Note (pri
 | Configerator | [Protoconf](https://github.com/protoconf/protoconf) | | |
 | Crash Reporting | [Firebase Crashlytics](https://firebase.google.com/docs/crashlytics) |
 | Cubism  | [Cubism](https://square.github.io/cubism/) | 
+| Bento   | [Apache Zeppelin](https://zeppelin.apache.org/) |   [Databricks](https://databricks.com/)
 | DataSwarm       | [AirFlow](https://airflow.apache.org/) |
 | Deltoid | [Growthbook](https://github.com/growthbook/growthbook) | [Statsig](https://www.statsig.com), [Google Optimize](https://marketingplatform.google.com/about/optimize/)|
 | FBLearner Flow | [TFX](https://www.tensorflow.org/tfx), [Metaflow](https://metaflow.org/), [Flyte](https://flyte.org/)|[Amazon SageMaker](https://aws.amazon.com/sagemaker/), [Azure Machine Learning](https://azure.microsoft.com/en-us/services/machine-learning/)|
