@@ -38,7 +38,7 @@ Inspired by: [xg2xg](https://github.com/jhuangtw-dev/xg2xg), [Venkat V Note (pri
 | Open/R  | [Open/R](https://github.com/facebook/openr)   |
 | pfff            | [pfff](https://github.com/returntocorp/pfff)
 | Phabricator     | [Phabricator](https://github.com/phacility/phabricator), [Graphite](https://graphite.dev) |
-| Presto | [PrestoDB](https://prestodb.io/) |
+| Presto | [Trino](https://trino.io), [PrestoDB](https://prestodb.io/) | [Starburst](https://starburst.io) | |
 | PSC | | [Lattice](https://lattice.com/) |
 | Pulse Surveys | | [Peakon](https://peakon.com/), [Glint](https://www.glintinc.com/) |
 | Rageshake | [Instabug](https://instabug.com/) |
