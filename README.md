@@ -25,7 +25,7 @@ Inspired by: [xg2xg](https://github.com/jhuangtw-dev/xg2xg), [Venkat V Note (pri
 | FBpush | [FBpush](https://github.com/facebookarchive/fbpush) | 
 | FBTrace | [Jaegar](https://www.jaegertracing.io/), [Zipkin](https://zipkin.io/), [LightStep](https://lightstep.com/) |
 | Entities        | [ent](https://entgo.io/docs/getting-started/) |
-| Gatekeeper      | [Growthbook](https://github.com/growthbook/growthbook) | [LaunchDarkly](https://launchdarkly.com/), [Google Optimize](https://marketingplatform.google.com/about/optimize/), [Bullet Train](https://bullet-train.io/), [Statsig](https://www.statsig.com/) (SaaS, exfb) | |
+| Gatekeeper      | [Growthbook](https://github.com/growthbook/growthbook),[Flag Smith](https://flagsmith.com/) | [LaunchDarkly](https://launchdarkly.com/), [Google Optimize](https://marketingplatform.google.com/about/optimize/), [Flag Smith](https://flagsmith.com/), [Statsig](https://www.statsig.com/) (SaaS, exfb) | |
 | GraphQL | [GraphQL](https://graphql.org/) | [Dgraph](https://dgraph.io) [Hasura](https://hasura.io/) | Hasura is graphQL on postgres in Haskell, Dgraph is graphQL with a scalable graph database with Raft in Go |
 | Hive | | [BigQuery](https://cloud.google.com/bigquery) |
 | Hipster | [Casbin](https://casbin.org/), [Keycloak](https://www.keycloak.org/) |
