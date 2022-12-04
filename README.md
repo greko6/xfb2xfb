@@ -18,6 +18,7 @@ Inspired by: [xg2xg](https://github.com/jhuangtw-dev/xg2xg), [Venkat V Note (pri
 | Cubism  | [Cubism](https://square.github.io/cubism/) | 
 | Bento   | [Apache Zeppelin](https://zeppelin.apache.org/) |   [Databricks](https://databricks.com/)
 | DataSwarm       | [AirFlow](https://airflow.apache.org/) |
+| Daiquery | [Jupyter](https://jupyter.org/) | [Databricks](https://www.databricks.com/) |
 | Deltoid | [Growthbook](https://github.com/growthbook/growthbook) | [Statsig](https://www.statsig.com), [Google Optimize](https://marketingplatform.google.com/about/optimize/)|
 | FBLearner Flow | [TFX](https://www.tensorflow.org/tfx), [Metaflow](https://metaflow.org/), [Flyte](https://flyte.org/)|[Amazon SageMaker](https://aws.amazon.com/sagemaker/), [Azure Machine Learning](https://azure.microsoft.com/en-us/services/machine-learning/)|
 | FBNet | [NSOT](https://github.com/dropbox/nsot) | 
@@ -56,7 +57,7 @@ Inspired by: [xg2xg](https://github.com/jhuangtw-dev/xg2xg), [Venkat V Note (pri
 | Tupperware | [Docker](https://www.docker.com/), [Kubernetes](https://kubernetes.io/) | [Nomad](https://www.nomadproject.io/)
 | Thrift | [GRPC](https://grpc.io/), [Thrift](https://github.com/apache/thrift) |
 | Unicorn         | [Rockset](https://rockset.com/) |
-| Unidash | [Grafana](https://www.grafana.com/), [Metabase](https://www.metabase.com/) | [Looker](https://looker.com/) |
+| Unidash | [Grafana](https://www.grafana.com/), [Metabase](https://www.metabase.com/) | [Looker](https://looker.com/), [Tableau](https://www.tableau.com/) |
 | Workday | | [Workday](https://workday.com), [Charlie HR](https://www.charliehr.com/), [Hibob](https://www.hibob.com/) |
 | ZippyDB | [Badger (Dgraph)](https://github.com/dgraph-io/badger) | [CockroachDB](https://www.cockroachlabs.com/) [Consul (Hashicorp)](https://www.consul.io/), [Etcd](https://www.etcd.io) | Key-Value stores based on Raft which scale horizontally. Cockroach is sharded. Consul provides service discovery. |
 
