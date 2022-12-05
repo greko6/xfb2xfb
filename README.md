@@ -38,7 +38,7 @@ Inspired by: [xg2xg](https://github.com/jhuangtw-dev/xg2xg), [Venkat V Note (pri
 | ODS             | [Prometheus](https://prometheus.io/) | [SignalFX](https://www.signalfx.com/), [Datadog](https://www.datadoghq.com/), [Splunk](https://www.splunk.com/), [Wavefront](https://www.wavefront.com/) |
 | Open/R  | [Open/R](https://github.com/facebook/openr)   |
 | pfff            | [pfff](https://github.com/returntocorp/pfff)
-| Phabricator     | [Phabricator](https://github.com/phacility/phabricator), [Graphite](https://graphite.dev) |
+| Phabricator     | [Phorge](https://we.phorge.it), [Graphite](https://graphite.dev) |
 | Presto | [Trino](https://trino.io), [PrestoDB](https://prestodb.io/) | [Starburst](https://starburst.io) | |
 | PSC | | [Lattice](https://lattice.com/) |
 | Pulse Surveys | | [Peakon](https://peakon.com/), [Glint](https://www.glintinc.com/) |
@@ -51,7 +51,7 @@ Inspired by: [xg2xg](https://github.com/jhuangtw-dev/xg2xg), [Venkat V Note (pri
 | SI/Site Integrity | [Haxl](https://github.com/facebook/Haxl) |
 | Sitevar | [Consul.io](https://www.consul.io/), [Etcd](https://www.etcd.io)|
 | TAO | [Neptune](https://aws.amazon.com/neptune/), [RedisGraph](https://oss.redislabs.com/redisgraph/), [dgraph](https://dgraph.io/), [Neo4j](https://neo4j.com/) |
-| Tasks | [Linear](https://linear.app/) , [Asana](https://asana.com/) , [Maniphest](https://github.com/phacility/phabricator) (inside Phabricator) |
+| Tasks | [Linear](https://linear.app/) , [Asana](https://asana.com/) , [Maniphest](https://we.phorge.it) (inside Phorge) |
 | TBGS | [Sourcegraph](https://about.sourcegraph.com/), [LiveGrep](https://github.com/livegrep/livegrep), [SilverSearcher](https://github.com/ggreer/the_silver_searcher), [ripgrep](https://github.com/BurntSushi/ripgrep) |
 | TracerT | [TracerT](https://github.com/facebook/fbtracert) |
 | Tupperware | [Docker](https://www.docker.com/), [Kubernetes](https://kubernetes.io/) | [Nomad](https://www.nomadproject.io/)
