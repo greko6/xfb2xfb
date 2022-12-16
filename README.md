@@ -32,7 +32,7 @@ Inspired by: [xg2xg](https://github.com/jhuangtw-dev/xg2xg), [Venkat V Note (pri
 | Hipster | [Casbin](https://casbin.org/), [Keycloak](https://www.keycloak.org/) |
 | iData | [Datahub](https://github.com/datahub-project/datahub) | [select star](https://www.selectstar.com/)|
 | Internal FB Groups | | [Workplace](https://www.facebook.com/workplace), [Threads](https://threads.com/) (exfb) |
-| Internal Messenger | | [Workplace](https://www.facebook.com/workplace), [Slack](https://www.slack.com), [Threads](https://threads.com/) (exfb) |
+| Internal Messenger | | [Workplace](https://www.facebook.com/workplace), [Slack](https://www.slack.com), [Threads](https://threads.com/) (exfb), [Discord](https://discord.com/) |
 | Internal Profiles | | [Pingboard](https://pingboard.com/) |
 | NetNorad | [NetNorad](https://github.com/fbsamples/OpenNetNorad) |
 | ODS             | [Prometheus](https://prometheus.io/) | [SignalFX](https://www.signalfx.com/), [Datadog](https://www.datadoghq.com/), [Splunk](https://www.splunk.com/), [Wavefront](https://www.wavefront.com/) |
@@ -44,7 +44,7 @@ Inspired by: [xg2xg](https://github.com/jhuangtw-dev/xg2xg), [Venkat V Note (pri
 | Pulse Surveys | | [Peakon](https://peakon.com/), [Glint](https://www.glintinc.com/) |
 | Rageshake | [Instabug](https://instabug.com/) |
 | Room Tools | | [Zoom Rooms](https://www.zoom.us/docs/doc/Zoom_Rooms_Scheduling_Display.pdf), [Eventboard](https://www.teem.com/display-apps/teem-conference-room-display/) |
-| Scuba | [MemSQL](https://www.memsql.com/), [Snorkel](https://snorkel.logv.org/), [Superset+Druid](https://www.youtube.com/watch?v=W_Sp4jo1ACg) (yt), [LocustDB](https://github.com/cswinter/LocustDB), [InfluxDB+Grafana](https://grafana.com/docs/grafana/latest/features/datasources/influxdb/) | [Honeycomb](https://www.honeycomb.io/) (SaaS, exfb), [Interana](https://www.interana.com/), [Looker](https://looker.com/) |
+| Scuba | [MemSQL](https://www.memsql.com/), [Snorkel](https://snorkel.logv.org/), [Superset+Druid](https://www.youtube.com/watch?v=W_Sp4jo1ACg) (yt), [LocustDB](https://github.com/cswinter/LocustDB), [InfluxDB+Grafana](https://grafana.com/docs/grafana/latest/features/datasources/influxdb/) | [Honeycomb](https://www.honeycomb.io/) (SaaS, exfb), [Interana](https://www.interana.com/), [Looker](https://looker.com/), [DBT](https://www.getdbt.com/) |
 | Scribe | [Apache Pulsar](https://pulsar.apache.org/), [Kafka](https://kafka.apache.org/), [Amazon Kinesis](https://aws.amazon.com/kinesis/) |
 | SEV Manager | [Kintaba](https://kintaba.com) | [Blameless](https://www.blameless.com), [FireHydrant](https://firehydrant.io/), [Grafana Incident](https://grafana.com/blog/2022/02/02/announcing-grafana-incident-smart-incident-management-for-your-teams/), [Pager Duty](https://www.pagerduty.com), [Incident](https://incident.io/)
 | SeRF | [Netbox](https://github.com/netbox-community/netbox), [Tinkerbell](https://github.com/tinkerbell/tink) | | Physical inventory and IPAM |
@@ -59,5 +59,6 @@ Inspired by: [xg2xg](https://github.com/jhuangtw-dev/xg2xg), [Venkat V Note (pri
 | Unicorn         | [Rockset](https://rockset.com/) |
 | Unidash | [Grafana](https://www.grafana.com/), [Metabase](https://www.metabase.com/) | [Looker](https://looker.com/), [Tableau](https://www.tableau.com/) |
 | Workday | | [Workday](https://workday.com), [Charlie HR](https://www.charliehr.com/), [Hibob](https://www.hibob.com/) |
+| Workplace | | [HumHub](https://www.humhub.com/), [Basecamp](https://basecamp.com/), [Whaller](https://whaller.com/) |
 | ZippyDB | [Badger (Dgraph)](https://github.com/dgraph-io/badger) | [CockroachDB](https://www.cockroachlabs.com/) [Consul (Hashicorp)](https://www.consul.io/), [Etcd](https://www.etcd.io) | Key-Value stores based on Raft which scale horizontally. Cockroach is sharded. Consul provides service discovery. |
 
