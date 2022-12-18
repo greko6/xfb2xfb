@@ -33,9 +33,8 @@ Inspired by: [xg2xg](https://github.com/jhuangtw-dev/xg2xg), [Venkat V Note (pri
 | Hipster | [Casbin](https://casbin.org/), [Keycloak](https://www.keycloak.org/) |
 | iData | [Datahub](https://github.com/datahub-project/datahub) | [select star](https://www.selectstar.com/)|
 | Internal FB Groups | | [Workplace](https://www.facebook.com/workplace), [Threads](https://threads.com/) (exfb) |
-| Internal Messenger | | [Workplace](https://www.facebook.com/workplace), [Slack](https://www.slack.com), [Threads](https://threads.com/) (exfb), [Discord](https://discord.com/) |
+| Internal Messenger | | [Workplace](https://www.facebook.com/workplace), [Slack](https://www.slack.com), [Threads](https://threads.com/) (exfb), [Discord](https://discord.com/), [TeamChat](https://www.icewarp.com) |
 | Internal Profiles | | [Pingboard](https://pingboard.com/) |
-| SRT (Single Review Tool) | | [LabelBox](https://labelbox.com/) |
 | NetNorad | [NetNorad](https://github.com/fbsamples/OpenNetNorad) |
 | ODS             | [Prometheus](https://prometheus.io/) | [SignalFX](https://www.signalfx.com/), [Datadog](https://www.datadoghq.com/), [Splunk](https://www.splunk.com/), [Wavefront](https://www.wavefront.com/) |
 | Open/R  | [Open/R](https://github.com/facebook/openr)   |
@@ -53,6 +52,7 @@ Inspired by: [xg2xg](https://github.com/jhuangtw-dev/xg2xg), [Venkat V Note (pri
 | SeRF | [Netbox](https://github.com/netbox-community/netbox), [Tinkerbell](https://github.com/tinkerbell/tink) | | Physical inventory and IPAM |
 | SI/Site Integrity | [Haxl](https://github.com/facebook/Haxl) |
 | Sitevar | [Consul.io](https://www.consul.io/), [Etcd](https://www.etcd.io)|
+| SRT (Single Review Tool) | | [LabelBox](https://labelbox.com/) |
 | TAO | [Neptune](https://aws.amazon.com/neptune/), [RedisGraph](https://oss.redislabs.com/redisgraph/), [dgraph](https://dgraph.io/), [Neo4j](https://neo4j.com/) |
 | Tasks | [Linear](https://linear.app/) , [Asana](https://asana.com/) , [Maniphest](https://we.phorge.it) (inside Phorge) |
 | TBGS | [Sourcegraph](https://about.sourcegraph.com/), [LiveGrep](https://github.com/livegrep/livegrep), [SilverSearcher](https://github.com/ggreer/the_silver_searcher), [ripgrep](https://github.com/BurntSushi/ripgrep) |
