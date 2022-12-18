@@ -9,7 +9,7 @@ Inspired by: [xg2xg](https://github.com/jhuangtw-dev/xg2xg), [Venkat V Note (pri
 
 | Facebook Internal | Open Source / Real-World                 | Cloud / Commercial      | Notes          |
 | ----------------- | ---------------------------------------- | ----------------------- | -------------- |
-| Bento | [Zeppelin](https://zeppelin.apache.org/), [Jupyter](https://jupyter.org/) | | |
+| Bento | [Zeppelin](https://zeppelin.apache.org/), [Jupyter](https://jupyter.org/) | [Databricks](https://databricks.com/) | |
 | Buck | [Buck](https://buck.build/), [Pants](https://www.pantsbuild.org/docs), [Bazel](https://bazel.build/) | | |
 | BunnyLOL | [Jack Bunny](https://github.com/evensi/jack_bunny), [Gopherlol](https://github.com/markusdosch/gopherlol) | | |
 | CaptureTheFlag  | [CaptureTheFlag](https://github.com/facebookarchive/fbctf) | [Secure Code Warrior](https://www.securecodewarrior.com/products/tournaments)
@@ -17,7 +17,6 @@ Inspired by: [xg2xg](https://github.com/jhuangtw-dev/xg2xg), [Venkat V Note (pri
 | Configerator | [Protoconf](https://github.com/protoconf/protoconf) | | |
 | Crash Reporting | [Firebase Crashlytics](https://firebase.google.com/docs/crashlytics) |
 | Cubism  | [Cubism](https://square.github.io/cubism/) |
-| Bento   | [Apache Zeppelin](https://zeppelin.apache.org/) |   [Databricks](https://databricks.com/)
 | DataSwarm       | [AirFlow](https://airflow.apache.org/) |
 | Daiquery | [Jupyter](https://jupyter.org/) | [Databricks](https://www.databricks.com/) |
 | Deltoid | [Growthbook](https://github.com/growthbook/growthbook) | [Statsig](https://www.statsig.com), [Google Optimize](https://marketingplatform.google.com/about/optimize/)|
