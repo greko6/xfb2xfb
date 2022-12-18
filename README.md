@@ -44,6 +44,7 @@ Inspired by: [xg2xg](https://github.com/jhuangtw-dev/xg2xg), [Venkat V Note (pri
 | Presto | [Trino](https://trino.io), [PrestoDB](https://prestodb.io/) | [Starburst](https://starburst.io) | |
 | PSC | | [Lattice](https://lattice.com/) |
 | Pulse Surveys | | [Peakon](https://peakon.com/), [Glint](https://www.glintinc.com/) |
+| Quip | [HedgeDoc](https://hedgedoc.org/) | [Quip](https://quip.com) | |
 | Rageshake | [Instabug](https://instabug.com/) |
 | Room Tools | | [Zoom Rooms](https://www.zoom.us/docs/doc/Zoom_Rooms_Scheduling_Display.pdf), [Eventboard](https://www.teem.com/display-apps/teem-conference-room-display/) |
 | Scuba | [MemSQL](https://www.memsql.com/), [Snorkel](https://snorkel.logv.org/), [Superset+Druid](https://www.youtube.com/watch?v=W_Sp4jo1ACg) (yt), [LocustDB](https://github.com/cswinter/LocustDB), [InfluxDB+Grafana](https://grafana.com/docs/grafana/latest/features/datasources/influxdb/) | [Honeycomb](https://www.honeycomb.io/) (SaaS, exfb), [Interana](https://www.interana.com/), [Looker](https://looker.com/), [DBT](https://www.getdbt.com/) |
