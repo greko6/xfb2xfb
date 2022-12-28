@@ -61,6 +61,7 @@ Inspired by: [xg2xg](https://github.com/jhuangtw-dev/xg2xg), [Venkat V Note (pri
 | Thrift | [GRPC](https://grpc.io/), [Thrift](https://github.com/apache/thrift) |
 | Unicorn         | [Rockset](https://rockset.com/) |
 | Unidash | [Grafana](https://www.grafana.com/), [Metabase](https://www.metabase.com/) | [Looker](https://looker.com/), [Tableau](https://www.tableau.com/) |
+| Working Set (VSCode Extention) | [Fildir](https://github.com/diggyk/fildir) | | An extension for VSCode that lets you filter out the directories in a monorepo you don't care about |
 | Workday | | [Workday](https://workday.com), [Charlie HR](https://www.charliehr.com/), [Hibob](https://www.hibob.com/) |
 | Workplace | | [HumHub](https://www.humhub.com/), [Basecamp](https://basecamp.com/), [Whaller](https://whaller.com/) |
 | ZippyDB | [Badger (Dgraph)](https://github.com/dgraph-io/badger) | [CockroachDB](https://www.cockroachlabs.com/) [Consul (Hashicorp)](https://www.consul.io/), [Etcd](https://www.etcd.io) | Key-Value stores based on Raft which scale horizontally. Cockroach is sharded. Consul provides service discovery. |
