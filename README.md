@@ -15,7 +15,7 @@ Inspired by: [xg2xg](https://github.com/jhuangtw-dev/xg2xg), [Venkat V Note (pri
 | CaptureTheFlag  | [CaptureTheFlag](https://github.com/facebookarchive/fbctf) | [Secure Code Warrior](https://www.securecodewarrior.com/products/tournaments)
 | Codemod | [Codemod](https://github.com/facebook/codemod) |
 | Configerator | [Protoconf](https://github.com/protoconf/protoconf) | | |
-| Crash Reporting | [Firebase Crashlytics](https://firebase.google.com/docs/crashlytics) |
+| Crash Reporting | [Firebase Crashlytics](https://firebase.google.com/docs/crashlytics), [sentry.io](https://sentry.io/from/crashlytics/) |
 | Cubism  | [Cubism](https://square.github.io/cubism/) |
 | DataSwarm       | [AirFlow](https://airflow.apache.org/) |
 | Daiquery | [Jupyter](https://jupyter.org/) | [Databricks](https://www.databricks.com/) |
@@ -26,20 +26,23 @@ Inspired by: [xg2xg](https://github.com/jhuangtw-dev/xg2xg), [Venkat V Note (pri
 | FBNet fcr | [FCR](https://github.com/facebookincubator/FCR) |
 | FBpush | [FBpush](https://github.com/facebookarchive/fbpush) |
 | FBTrace | [Jaegar](https://www.jaegertracing.io/), [Zipkin](https://zipkin.io/), [LightStep](https://lightstep.com/) |
+| FOQS | [Apache Pulsar](https://pulsar.apache.org/), [RabbitMQ](https://www.rabbitmq.com/) | [Google PubSub](https://cloud.google.com/pubsub), [Amazon SQS](https://aws.amazon.com/sqs/)| Similar to Iris, but more general. Used to support [FB's Async Tier](https://engineering.fb.com/2021/02/22/production-engineering/foqs-scaling-a-distributed-priority-queue/#:~:text=Async%20(Facebook%E2%80%99s%20asynchronous%20compute%20platform)).|
 | Entities        | [ent](https://entgo.io/docs/getting-started/) |
+| Excalidraw | [Excalidraw](https://excalidraw.com/)| |
 | Gatekeeper, JustKnobs | [Growthbook](https://github.com/growthbook/growthbook),[Flag Smith](https://flagsmith.com/) | [LaunchDarkly](https://launchdarkly.com/), [Google Optimize](https://marketingplatform.google.com/about/optimize/), [Flag Smith](https://flagsmith.com/), [Statsig](https://www.statsig.com/) (SaaS, exfb) | |
 | GraphQL | [GraphQL](https://graphql.org/) | [Dgraph](https://dgraph.io) [Hasura](https://hasura.io/) | Hasura is graphQL on postgres in Haskell, Dgraph is graphQL with a scalable graph database with Raft in Go |
-| Hive | | [BigQuery](https://cloud.google.com/bigquery) |
+| Hive | [Clickhouse](https://clickhouse.com/)| [BigQuery](https://cloud.google.com/bigquery) |
 | Hipster | [Casbin](https://casbin.org/), [Keycloak](https://www.keycloak.org/) |
 | iData | [Datahub](https://github.com/datahub-project/datahub) | [select star](https://www.selectstar.com/)|
 | Internal FB Groups | | [Workplace](https://www.facebook.com/workplace), [Threads](https://threads.com/) (exfb) |
 | Internal Messenger | | [Workplace](https://www.facebook.com/workplace), [Slack](https://www.slack.com), [Threads](https://threads.com/) (exfb), [Discord](https://discord.com/), [TeamChat](https://www.icewarp.com) |
 | Internal Profiles | | [Pingboard](https://pingboard.com/) |
+| Iris | [Apache Kafka](https://kafka.apache.org/) | [Google PubSub](https://cloud.google.com/pubsub), [Amazon SNS](https://aws.amazon.com/sNs/)| Similar to FOQS but heavier emphasis on [sending messages](https://engineering.fb.com/2014/10/09/production-engineering/building-mobile-first-infrastructure-for-messenger/).|
 | NetNorad | [NetNorad](https://github.com/fbsamples/OpenNetNorad) |
 | ODS             | [Prometheus](https://prometheus.io/) | [SignalFX](https://www.signalfx.com/), [Datadog](https://www.datadoghq.com/), [Splunk](https://www.splunk.com/), [Wavefront](https://www.wavefront.com/) |
 | Open/R  | [Open/R](https://github.com/facebook/openr)   |
 | pfff            | [pfff](https://github.com/returntocorp/pfff)
-| Phabricator     | [Phorge](https://we.phorge.it), [Graphite](https://graphite.dev) |
+| Phabricator     | [Phorge](https://we.phorge.it), [Graphite](https://graphite.dev), [Phabricator](https://phacility.com/phabricator/)| | Phabricator is no longer maintained [as of 2021](https://admin.phacility.com/phame/post/view/11/phacility_is_winding_down_operations/)| 
 | Presto | [Trino](https://trino.io), [PrestoDB](https://prestodb.io/) | [Starburst](https://starburst.io) | |
 | PSC | | [Lattice](https://lattice.com/) |
 | Pulse Surveys | | [Peakon](https://peakon.com/), [Glint](https://www.glintinc.com/) |
