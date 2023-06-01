@@ -38,11 +38,12 @@ Inspired by: [xg2xg](https://github.com/jhuangtw-dev/xg2xg), [Venkat V Note (pri
 | Internal Messenger | | [Workplace](https://www.facebook.com/workplace), [Slack](https://www.slack.com), [Threads](https://threads.com/) (exfb), [Discord](https://discord.com/), [TeamChat](https://www.icewarp.com) |
 | Internal Profiles | | [Pingboard](https://pingboard.com/) |
 | Iris | [Apache Kafka](https://kafka.apache.org/) | [Google PubSub](https://cloud.google.com/pubsub), [Amazon SNS](https://aws.amazon.com/sNs/)| Similar to FOQS but heavier emphasis on [sending messages](https://engineering.fb.com/2014/10/09/production-engineering/building-mobile-first-infrastructure-for-messenger/).|
+| Mercurial -> Git | [git branchless](https://github.com/arxanas/git-branchless), [hg-git](http://hg-git.github.io/) | | git branchless adds some of the features you know and love from Mercurial to git, or just keep using Mercurial in a git repo using hg-git |
 | NetNorad | [NetNorad](https://github.com/fbsamples/OpenNetNorad) |
 | ODS             | [Prometheus](https://prometheus.io/) | [SignalFX](https://www.signalfx.com/), [Datadog](https://www.datadoghq.com/), [Splunk](https://www.splunk.com/), [Wavefront](https://www.wavefront.com/) |
 | Open/R  | [Open/R](https://github.com/facebook/openr)   |
 | pfff            | [pfff](https://github.com/returntocorp/pfff)
-| Phabricator     | [Phorge](https://we.phorge.it), [Graphite](https://graphite.dev), [Phabricator](https://phacility.com/phabricator/)| | Phabricator is no longer maintained [as of 2021](https://admin.phacility.com/phame/post/view/11/phacility_is_winding_down_operations/)| 
+| Phabricator     | [Phorge](https://we.phorge.it), [Graphite](https://graphite.dev), [Phabricator](https://phacility.com/phabricator/)| | Phabricator is no longer maintained [as of 2021](https://admin.phacility.com/phame/post/view/11/phacility_is_winding_down_operations/)|
 | Presto | [Trino](https://trino.io), [PrestoDB](https://prestodb.io/) | [Starburst](https://starburst.io) | |
 | PSC | | [Lattice](https://lattice.com/) |
 | Pulse Surveys | | [Peakon](https://peakon.com/), [Glint](https://www.glintinc.com/) |
