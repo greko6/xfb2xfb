@@ -20,6 +20,7 @@ Inspired by: [xg2xg](https://github.com/jhuangtw-dev/xg2xg), [Venkat V Note (pri
 | DataSwarm       | [AirFlow](https://airflow.apache.org/) |
 | Daiquery | [Jupyter](https://jupyter.org/) | [Databricks](https://www.databricks.com/) |
 | Deltoid | [Growthbook](https://github.com/growthbook/growthbook) | [Statsig](https://www.statsig.com), [Google Optimize](https://marketingplatform.google.com/about/optimize/)|
+| Dotsync | [Dotsync](https://github.com/dotphiles/dotsync) | | No native support for automatically saving/loading config changes |
 | Eden / HG | [Sapling](https://sapling-scm.com/) | |
 | FBLearner Flow | [TFX](https://www.tensorflow.org/tfx), [Metaflow](https://metaflow.org/), [Flyte](https://flyte.org/)|[Amazon SageMaker](https://aws.amazon.com/sagemaker/), [Azure Machine Learning](https://azure.microsoft.com/en-us/services/machine-learning/)|
 | FBNet | [NSOT](https://github.com/dropbox/nsot) |
@@ -61,7 +62,7 @@ Inspired by: [xg2xg](https://github.com/jhuangtw-dev/xg2xg), [Venkat V Note (pri
 | Tasks | [Linear](https://linear.app/) , [Asana](https://asana.com/) , [Maniphest](https://we.phorge.it) (inside Phorge) |
 | TBGS | [Sourcegraph](https://about.sourcegraph.com/), [LiveGrep](https://github.com/livegrep/livegrep), [SilverSearcher](https://github.com/ggreer/the_silver_searcher), [ripgrep](https://github.com/BurntSushi/ripgrep) |
 | TracerT | [TracerT](https://github.com/facebook/fbtracert) |
-| Tupperware | [Docker](https://www.docker.com/), [Kubernetes](https://kubernetes.io/) | [Nomad](https://www.nomadproject.io/)
+| Tupperware | [Docker](https://www.docker.com/), [Podman](https://podman.io/), [Kubernetes](https://kubernetes.io/) | [Nomad](https://www.nomadproject.io/)
 | Thrift | [GRPC](https://grpc.io/), [Thrift](https://github.com/apache/thrift), [ZeroMQ](https://zeromq.org/) |
 | Unicorn         | [Rockset](https://rockset.com/) |
 | Unidash | [Grafana](https://www.grafana.com/), [Metabase](https://www.metabase.com/) | [Looker](https://looker.com/), [Tableau](https://www.tableau.com/) |
