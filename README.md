@@ -73,3 +73,5 @@ Inspired by: [xg2xg](https://github.com/jhuangtw-dev/xg2xg), [Venkat V Note (pri
 | ZippyDB | [Badger (Dgraph)](https://github.com/dgraph-io/badger) | [CockroachDB](https://www.cockroachlabs.com/) [Consul (Hashicorp)](https://www.consul.io/), [Etcd](https://www.etcd.io) | Key-Value stores based on Raft which scale horizontally. Cockroach is sharded. Consul provides service discovery. |
 | CWS, Async workflow | [Temporal](https://temporal.io/), [Argo Workflows](https://argoproj.github.io/argo-workflows/) | [AWS Step Functions](https://docs.aws.amazon.com/step-functions/index.html), [Azure Logic Apps](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-overview), [Google Cloud Workflows](https://cloud.google.com/workflows) | Frameworks for implementing complex, asynchronous workflows through coordinating steps with dependencies and error handling |
 
+## Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=greko6/xfb2xfb&type=Date)](https://star-history.com/#greko6/xfb2xfb&Date)
