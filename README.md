@@ -52,7 +52,7 @@ Inspired by: [xg2xg](https://github.com/jhuangtw-dev/xg2xg), [Venkat V Note (pri
 | Quip | [HedgeDoc](https://hedgedoc.org/) | [Quip](https://quip.com) | |
 | Rageshake | [Instabug](https://instabug.com/) |
 | Room Tools | | [Zoom Rooms](https://www.zoom.us/docs/doc/Zoom_Rooms_Scheduling_Display.pdf), [Eventboard](https://www.teem.com/display-apps/teem-conference-room-display/) |
-| Scuba | [Superset+Rockset](https://rockset.com/docs/apache-superset/), [MemSQL](https://www.memsql.com/), [Snorkel](https://snorkel.logv.org/), [Superset+Druid](https://www.youtube.com/watch?v=W_Sp4jo1ACg) (yt), [LocustDB](https://github.com/cswinter/LocustDB), [InfluxDB+Grafana](https://grafana.com/docs/grafana/latest/features/datasources/influxdb/) | [Honeycomb](https://www.honeycomb.io/) (SaaS, exfb), [Interana](https://www.interana.com/), [Looker](https://looker.com/) |
+| Scuba | [Superset+Rockset](https://rockset.com/docs/apache-superset/), [MemSQL](https://www.memsql.com/), [Snorkel](https://snorkel.logv.org/), [Superset+Druid](https://www.youtube.com/watch?v=W_Sp4jo1ACg) (yt), [LocustDB](https://github.com/cswinter/LocustDB), [InfluxDB+Grafana](https://grafana.com/docs/grafana/latest/features/datasources/influxdb/) | [Honeycomb](https://www.honeycomb.io/) (SaaS, exfb), [Interana](https://www.interana.com/), [Looker](https://looker.com/), [Statsig](https://www.statsig.com/) (SaaS, exfb) |
 | Scribe | [Apache Pulsar](https://pulsar.apache.org/), [Kafka](https://kafka.apache.org/), [Amazon Kinesis](https://aws.amazon.com/kinesis/) |
 | SEV Manager | [Kintaba](https://kintaba.com) | [Blameless](https://www.blameless.com), [FireHydrant](https://firehydrant.io/), [Grafana Incident](https://grafana.com/blog/2022/02/02/announcing-grafana-incident-smart-incident-management-for-your-teams/), [Pager Duty](https://www.pagerduty.com), [Incident](https://incident.io/)
 | SeRF | [Netbox](https://github.com/netbox-community/netbox), [Tinkerbell](https://github.com/tinkerbell/tink), [RacksDB](https://rackslab.io/en/solutions/racksdb) | | Physical inventory and IPAM |
@@ -66,7 +66,7 @@ Inspired by: [xg2xg](https://github.com/jhuangtw-dev/xg2xg), [Venkat V Note (pri
 | Tupperware | [Docker](https://www.docker.com/), [Podman](https://podman.io/), [Kubernetes](https://kubernetes.io/) | [Nomad](https://www.nomadproject.io/)
 | Thrift | [GRPC](https://grpc.io/), [Thrift](https://github.com/apache/thrift), [ZeroMQ](https://zeromq.org/) |
 | Unicorn         | [Rockset](https://rockset.com/) |
-| Unidash | [Grafana](https://www.grafana.com/), [Metabase](https://www.metabase.com/) | [Looker](https://looker.com/), [Tableau](https://www.tableau.com/) |
+| Unidash | [Grafana](https://www.grafana.com/), [Metabase](https://www.metabase.com/) | [Looker](https://looker.com/), [Tableau](https://www.tableau.com/), , [Statsig](https://www.statsig.com/) (SaaS, exfb) |
 | Working Set (VSCode Extention) | [Fildir](https://marketplace.visualstudio.com/items?itemName=diggyk.fildir), [Working Sets](https://marketplace.visualstudio.com/items?itemName=bernardop.working-sets) | | VSCode extensions to help you focus on specific files or directories in a monorepo |
 | Workday | | [Workday](https://workday.com), [Charlie HR](https://www.charliehr.com/), [Hibob](https://www.hibob.com/) |
 | Workplace | | [HumHub](https://www.humhub.com/), [Basecamp](https://basecamp.com/), [Whaller](https://whaller.com/) |
