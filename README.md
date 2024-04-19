@@ -19,7 +19,7 @@ Inspired by: [xg2xg](https://github.com/jhuangtw-dev/xg2xg), [Venkat V Note (pri
 | Cubism  | [Cubism](https://square.github.io/cubism/) |
 | DataSwarm       | [AirFlow](https://airflow.apache.org/) |
 | Daiquery | [Jupyter](https://jupyter.org/) | [Databricks](https://www.databricks.com/) |
-| Deltoid | [Growthbook](https://github.com/growthbook/growthbook) | [Statsig](https://www.statsig.com), [Google Optimize](https://marketingplatform.google.com/about/optimize/)|
+| Deltoid | [Growthbook](https://github.com/growthbook/growthbook) | [Statsig](https://www.statsig.com/?ref=xfb2xfb), [Google Optimize](https://marketingplatform.google.com/about/optimize/)|
 | Dotsync | [Dotsync](https://github.com/dotphiles/dotsync) | | No native support for automatically saving/loading config changes |
 | Eden / HG | [Sapling](https://sapling-scm.com/) | |
 | FBLearner Flow | [TFX](https://www.tensorflow.org/tfx), [Metaflow](https://metaflow.org/), [Flyte](https://flyte.org/)|[Amazon SageMaker](https://aws.amazon.com/sagemaker/), [Azure Machine Learning](https://azure.microsoft.com/en-us/services/machine-learning/), [Union Cloud](https://www.union.ai/cloud)|
@@ -30,7 +30,7 @@ Inspired by: [xg2xg](https://github.com/jhuangtw-dev/xg2xg), [Venkat V Note (pri
 | FOQS | [Apache Pulsar](https://pulsar.apache.org/), [RabbitMQ](https://www.rabbitmq.com/) | [Google PubSub](https://cloud.google.com/pubsub), [Amazon SQS](https://aws.amazon.com/sqs/)| Similar to Iris, but more general. Used to support [FB's Async Tier](https://engineering.fb.com/2021/02/22/production-engineering/foqs-scaling-a-distributed-priority-queue/#:~:text=Async%20(Facebook%E2%80%99s%20asynchronous%20compute%20platform)).|
 | Entities        | [ent](https://entgo.io/docs/getting-started/) |
 | Excalidraw | [Excalidraw](https://excalidraw.com/)| |
-| Gatekeeper, JustKnobs | [Growthbook](https://github.com/growthbook/growthbook),[Flag Smith](https://flagsmith.com/) | [LaunchDarkly](https://launchdarkly.com/), [Google Optimize](https://marketingplatform.google.com/about/optimize/), [Flag Smith](https://flagsmith.com/), [Statsig](https://www.statsig.com/) (SaaS, exfb) | |
+| Gatekeeper, JustKnobs | [Growthbook](https://github.com/growthbook/growthbook),[Flag Smith](https://flagsmith.com/) | [LaunchDarkly](https://launchdarkly.com/), [Google Optimize](https://marketingplatform.google.com/about/optimize/), [Flag Smith](https://flagsmith.com/), [Statsig](https://www.statsig.com/?ref=xfb2xfb) (SaaS, exfb) | |
 | GraphQL | [GraphQL](https://graphql.org/) | [Dgraph](https://dgraph.io) [Hasura](https://hasura.io/) | Hasura is graphQL on postgres in Haskell, Dgraph is graphQL with a scalable graph database with Raft in Go |
 | Hive | [Clickhouse](https://clickhouse.com/)| [BigQuery](https://cloud.google.com/bigquery) |
 | Hipster | [Casbin](https://casbin.org/), [Keycloak](https://www.keycloak.org/) |
@@ -52,7 +52,7 @@ Inspired by: [xg2xg](https://github.com/jhuangtw-dev/xg2xg), [Venkat V Note (pri
 | Quip | [HedgeDoc](https://hedgedoc.org/) | [Quip](https://quip.com) | |
 | Rageshake | [Instabug](https://instabug.com/) |
 | Room Tools | | [Zoom Rooms](https://www.zoom.us/docs/doc/Zoom_Rooms_Scheduling_Display.pdf), [Eventboard](https://www.teem.com/display-apps/teem-conference-room-display/) |
-| Scuba | [Superset+Rockset](https://rockset.com/docs/apache-superset/), [MemSQL](https://www.memsql.com/), [Snorkel](https://snorkel.logv.org/), [Superset+Druid](https://www.youtube.com/watch?v=W_Sp4jo1ACg) (yt), [LocustDB](https://github.com/cswinter/LocustDB), [InfluxDB+Grafana](https://grafana.com/docs/grafana/latest/features/datasources/influxdb/) | [Honeycomb](https://www.honeycomb.io/) (SaaS, exfb), [Interana](https://www.interana.com/), [Looker](https://looker.com/), [Statsig](https://www.statsig.com/) (SaaS, exfb) |
+| Scuba | [Superset+Rockset](https://rockset.com/docs/apache-superset/), [MemSQL](https://www.memsql.com/), [Snorkel](https://snorkel.logv.org/), [Superset+Druid](https://www.youtube.com/watch?v=W_Sp4jo1ACg) (yt), [LocustDB](https://github.com/cswinter/LocustDB), [InfluxDB+Grafana](https://grafana.com/docs/grafana/latest/features/datasources/influxdb/) | [Honeycomb](https://www.honeycomb.io/) (SaaS, exfb), [Interana](https://www.interana.com/), [Looker](https://looker.com/), [Statsig](https://www.statsig.com/?ref=xfb2xfb) (SaaS, exfb) |
 | Scribe | [Apache Pulsar](https://pulsar.apache.org/), [Kafka](https://kafka.apache.org/), [Amazon Kinesis](https://aws.amazon.com/kinesis/) |
 | SEV Manager | [Kintaba](https://kintaba.com) | [Blameless](https://www.blameless.com), [FireHydrant](https://firehydrant.io/), [Grafana Incident](https://grafana.com/blog/2022/02/02/announcing-grafana-incident-smart-incident-management-for-your-teams/), [Pager Duty](https://www.pagerduty.com), [Incident](https://incident.io/)
 | SeRF | [Netbox](https://github.com/netbox-community/netbox), [Tinkerbell](https://github.com/tinkerbell/tink), [RacksDB](https://rackslab.io/en/solutions/racksdb) | | Physical inventory and IPAM |
@@ -66,7 +66,7 @@ Inspired by: [xg2xg](https://github.com/jhuangtw-dev/xg2xg), [Venkat V Note (pri
 | Tupperware | [Docker](https://www.docker.com/), [Podman](https://podman.io/), [Kubernetes](https://kubernetes.io/) | [Nomad](https://www.nomadproject.io/)
 | Thrift | [GRPC](https://grpc.io/), [Thrift](https://github.com/apache/thrift), [ZeroMQ](https://zeromq.org/) |
 | Unicorn         | [Rockset](https://rockset.com/) |
-| Unidash | [Grafana](https://www.grafana.com/), [Metabase](https://www.metabase.com/) | [Looker](https://looker.com/), [Tableau](https://www.tableau.com/), , [Statsig](https://www.statsig.com/) (SaaS, exfb) |
+| Unidash | [Grafana](https://www.grafana.com/), [Metabase](https://www.metabase.com/) | [Looker](https://looker.com/), [Tableau](https://www.tableau.com/), , [Statsig](https://www.statsig.com/?ref=xfb2xfb) (SaaS, exfb) |
 | Working Set (VSCode Extention) | [Fildir](https://marketplace.visualstudio.com/items?itemName=diggyk.fildir), [Working Sets](https://marketplace.visualstudio.com/items?itemName=bernardop.working-sets) | | VSCode extensions to help you focus on specific files or directories in a monorepo |
 | Workday | | [Workday](https://workday.com), [Charlie HR](https://www.charliehr.com/), [Hibob](https://www.hibob.com/) |
 | Workplace | | [HumHub](https://www.humhub.com/), [Basecamp](https://basecamp.com/), [Whaller](https://whaller.com/) |
