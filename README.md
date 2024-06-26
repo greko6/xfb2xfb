@@ -52,6 +52,7 @@ Inspired by: [xg2xg](https://github.com/jhuangtw-dev/xg2xg), [Venkat V Note (pri
 | Quip | [HedgeDoc](https://hedgedoc.org/) | [Quip](https://quip.com) | |
 | Rageshake | [Instabug](https://instabug.com/) |
 | Room Tools | | [Zoom Rooms](https://www.zoom.us/docs/doc/Zoom_Rooms_Scheduling_Display.pdf), [Eventboard](https://www.teem.com/display-apps/teem-conference-room-display/) |
+| screenshotbot | [Screenshotbot.io](https://screenshotbot.io) | | |
 | Scuba | ~~[Superset+Rockset](https://rockset.com/docs/apache-superset/)~~ (acquired by OpenAI), [MemSQL](https://www.memsql.com/), [Snorkel](https://snorkel.logv.org/), [Superset+Druid](https://www.youtube.com/watch?v=W_Sp4jo1ACg) (yt), [LocustDB](https://github.com/cswinter/LocustDB), [InfluxDB+Grafana](https://grafana.com/docs/grafana/latest/features/datasources/influxdb/) | [Honeycomb](https://www.honeycomb.io/) (SaaS, exfb), [Interana](https://www.interana.com/), [Looker](https://looker.com/), [Statsig](https://www.statsig.com/?ref=xfb2xfb) (SaaS, exfb) |
 | Scribe | [Apache Pulsar](https://pulsar.apache.org/), [Kafka](https://kafka.apache.org/), [Amazon Kinesis](https://aws.amazon.com/kinesis/) |
 | SEV Manager | [Kintaba](https://kintaba.com) | [Blameless](https://www.blameless.com), [FireHydrant](https://firehydrant.io/), [Grafana Incident](https://grafana.com/blog/2022/02/02/announcing-grafana-incident-smart-incident-management-for-your-teams/), [Pager Duty](https://www.pagerduty.com), [Incident](https://incident.io/)
