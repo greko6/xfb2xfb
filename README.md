@@ -14,7 +14,7 @@ Inspired by: [xg2xg](https://github.com/jhuangtw-dev/xg2xg), [Venkat V Note (pri
 | BunnyLOL | [Jack Bunny](https://github.com/evensi/jack_bunny), [Gopherlol](https://github.com/markusdosch/gopherlol) | | |
 | CaptureTheFlag  | [CaptureTheFlag](https://github.com/facebookarchive/fbctf) | [Secure Code Warrior](https://www.securecodewarrior.com/products/tournaments)
 | Codemod | [Codemod](https://github.com/facebook/codemod) |
-| Configerator | [Protoconf](https://github.com/protoconf/protoconf) | | |
+| Configerator | [Protoconf](https://github.com/protoconf/protoconf) | [AWS AppConfig](https://docs.aws.amazon.com/appconfig/latest/userguide/what-is-appconfig.html) | |
 | Crash Reporting | [Firebase Crashlytics](https://firebase.google.com/docs/crashlytics), [sentry.io](https://sentry.io/from/crashlytics/) |
 | Cubism  | [Cubism](https://square.github.io/cubism/) |
 | DataSwarm       | [AirFlow](https://airflow.apache.org/) |
