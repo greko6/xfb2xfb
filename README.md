@@ -34,7 +34,7 @@ Inspired by: [xg2xg](https://github.com/jhuangtw-dev/xg2xg), [Venkat V Note (pri
 | GraphQL | [GraphQL](https://graphql.org/) | [Dgraph](https://dgraph.io) [Hasura](https://hasura.io/) | Hasura is graphQL on postgres in Haskell, Dgraph is graphQL with a scalable graph database with Raft in Go |
 | Hive | [Clickhouse](https://clickhouse.com/)| [BigQuery](https://cloud.google.com/bigquery) |
 | Hipster | [Casbin](https://casbin.org/), [Keycloak](https://www.keycloak.org/) |
-| HWC | | [RackHD](https://github.com/RackHD/RackHD) |
+| HWC | [RackHD](https://github.com/RackHD/RackHD) | |
 | Hypershell | [ClusterSSH](https://github.com/duncs/clusterssh) | | |
 | iData | [Datahub](https://github.com/datahub-project/datahub) | [select star](https://www.selectstar.com/)|
 | Internal FB Groups | | [Workplace](https://www.facebook.com/workplace), [Threads](https://threads.com/) (exfb) |
