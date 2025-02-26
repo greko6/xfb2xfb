@@ -41,6 +41,7 @@ Inspired by: [xg2xg](https://github.com/jhuangtw-dev/xg2xg), [Venkat V Note (pri
 | Internal Messenger | | [Workplace](https://www.facebook.com/workplace), [Slack](https://www.slack.com), [Threads](https://threads.com/) (exfb), [Discord](https://discord.com/), [TeamChat](https://www.icewarp.com) |
 | Internal Profiles | | [Pingboard](https://pingboard.com/) |
 | Iris | [Apache Kafka](https://kafka.apache.org/) | [Google PubSub](https://cloud.google.com/pubsub), [Amazon SNS](https://aws.amazon.com/sNs/)| Similar to FOQS but heavier emphasis on [sending messages](https://engineering.fb.com/2014/10/09/production-engineering/building-mobile-first-infrastructure-for-messenger/).|
+| Mattermost | [Mattermost](https://mattermost.com/), [Rocket.chat](https://www.rocket.chat/) | [Mattermost](https://mattermost.com/) | MM has an AGPL and commercial version |
 | Mercurial -> Git | [git branchless](https://github.com/arxanas/git-branchless), [hg-git](http://hg-git.github.io/) | | git branchless adds some of the features you know and love from Mercurial to git, or just keep using Mercurial in a git repo using hg-git |
 | NetNorad | [NetNorad](https://github.com/fbsamples/OpenNetNorad) |
 | ODS             | [Prometheus](https://prometheus.io/) | [SignalFX](https://www.signalfx.com/), [Datadog](https://www.datadoghq.com/), [Splunk](https://www.splunk.com/), [Wavefront](https://www.wavefront.com/) |
