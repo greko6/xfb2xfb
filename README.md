@@ -12,7 +12,8 @@ Inspired by: [xg2xg](https://github.com/jhuangtw-dev/xg2xg), [Venkat V Note (pri
 | Bento | [Zeppelin](https://zeppelin.apache.org/), [Jupyter](https://jupyter.org/) | [Databricks](https://databricks.com/) | |
 | Buck | [Buck](https://buck.build/), [Pants](https://www.pantsbuild.org/docs), [Bazel](https://bazel.build/) | | |
 | BunnyLOL | [Jack Bunny](https://github.com/evensi/jack_bunny), [Gopherlol](https://github.com/markusdosch/gopherlol) | | |
-| CaptureTheFlag  | [CaptureTheFlag](https://github.com/facebookarchive/fbctf) | [Secure Code Warrior](https://www.securecodewarrior.com/products/tournaments)
+| CaptureTheFlag  | [CaptureTheFlag](https://github.com/facebookarchive/fbctf) | [Secure Code Warrior](https://www.securecodewarrior.com/products/tournaments) |
+| Chronos | [dKron](https://dkron.io/) |
 | Codemod | [Codemod](https://github.com/facebook/codemod) |
 | Configerator | [Protoconf](https://github.com/protoconf/protoconf) | [AWS AppConfig](https://docs.aws.amazon.com/appconfig/latest/userguide/what-is-appconfig.html) | |
 | Crash Reporting | [Firebase Crashlytics](https://firebase.google.com/docs/crashlytics), [sentry.io](https://sentry.io/from/crashlytics/) |
