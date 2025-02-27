@@ -12,7 +12,8 @@ Inspired by: [xg2xg](https://github.com/jhuangtw-dev/xg2xg), [Venkat V Note (pri
 | Bento | [Zeppelin](https://zeppelin.apache.org/), [Jupyter](https://jupyter.org/) | [Databricks](https://databricks.com/) | |
 | Buck | [Buck](https://buck.build/), [Pants](https://www.pantsbuild.org/docs), [Bazel](https://bazel.build/) | | |
 | BunnyLOL | [Jack Bunny](https://github.com/evensi/jack_bunny), [Gopherlol](https://github.com/markusdosch/gopherlol) | | |
-| CaptureTheFlag  | [CaptureTheFlag](https://github.com/facebookarchive/fbctf) | [Secure Code Warrior](https://www.securecodewarrior.com/products/tournaments)
+| CaptureTheFlag  | [CaptureTheFlag](https://github.com/facebookarchive/fbctf) | [Secure Code Warrior](https://www.securecodewarrior.com/products/tournaments) |
+| Chronos | [dKron](https://dkron.io/) |
 | Codemod | [Codemod](https://github.com/facebook/codemod) |
 | Configerator | [Protoconf](https://github.com/protoconf/protoconf) | [AWS AppConfig](https://docs.aws.amazon.com/appconfig/latest/userguide/what-is-appconfig.html) | |
 | Crash Reporting | [Firebase Crashlytics](https://firebase.google.com/docs/crashlytics), [sentry.io](https://sentry.io/from/crashlytics/) |
@@ -34,13 +35,14 @@ Inspired by: [xg2xg](https://github.com/jhuangtw-dev/xg2xg), [Venkat V Note (pri
 | GraphQL | [GraphQL](https://graphql.org/) | [Dgraph](https://dgraph.io) [Hasura](https://hasura.io/) | Hasura is graphQL on postgres in Haskell, Dgraph is graphQL with a scalable graph database with Raft in Go |
 | Hive | [Clickhouse](https://clickhouse.com/)| [BigQuery](https://cloud.google.com/bigquery) |
 | Hipster | [Casbin](https://casbin.org/), [Keycloak](https://www.keycloak.org/) |
-| HWC | | [RackHD](https://github.com/RackHD/RackHD) |
+| HWC | [RackHD](https://github.com/RackHD/RackHD) | |
 | Hypershell | [ClusterSSH](https://github.com/duncs/clusterssh) | | |
 | iData | [Datahub](https://github.com/datahub-project/datahub) | [select star](https://www.selectstar.com/)|
 | Internal FB Groups | | [Workplace](https://www.facebook.com/workplace), [Threads](https://threads.com/) (exfb) |
 | Internal Messenger | | [Workplace](https://www.facebook.com/workplace), [Slack](https://www.slack.com), [Threads](https://threads.com/) (exfb), [Discord](https://discord.com/), [TeamChat](https://www.icewarp.com) |
 | Internal Profiles | | [Pingboard](https://pingboard.com/) |
 | Iris | [Apache Kafka](https://kafka.apache.org/) | [Google PubSub](https://cloud.google.com/pubsub), [Amazon SNS](https://aws.amazon.com/sNs/)| Similar to FOQS but heavier emphasis on [sending messages](https://engineering.fb.com/2014/10/09/production-engineering/building-mobile-first-infrastructure-for-messenger/).|
+| Mattermost | [Mattermost](https://mattermost.com/), [Rocket.chat](https://www.rocket.chat/) | [Mattermost](https://mattermost.com/) | MM has an AGPL and commercial version |
 | Mercurial -> Git | [git branchless](https://github.com/arxanas/git-branchless), [hg-git](http://hg-git.github.io/) | | git branchless adds some of the features you know and love from Mercurial to git, or just keep using Mercurial in a git repo using hg-git |
 | NetNorad | [NetNorad](https://github.com/fbsamples/OpenNetNorad) |
 | ODS             | [Prometheus](https://prometheus.io/) | [SignalFX](https://www.signalfx.com/), [Datadog](https://www.datadoghq.com/), [Splunk](https://www.splunk.com/), [Wavefront](https://www.wavefront.com/) |
