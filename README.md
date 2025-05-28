@@ -13,7 +13,7 @@ Inspired by: [xg2xg](https://github.com/jhuangtw-dev/xg2xg), [Venkat V Note (pri
 | Buck | [Buck](https://buck.build/), [Pants](https://www.pantsbuild.org/docs), [Bazel](https://bazel.build/) | | |
 | BunnyLOL | [Jack Bunny](https://github.com/evensi/jack_bunny), [Gopherlol](https://github.com/markusdosch/gopherlol) | | |
 | CaptureTheFlag  | [CaptureTheFlag](https://github.com/facebookarchive/fbctf) | [Secure Code Warrior](https://www.securecodewarrior.com/products/tournaments) |
-| Caprica | [Aerleon](https://github.com/aerleon/aerleon), [Caprica](https://github.com/google/capirca) | | |
+| Caprica | [Aerleon](https://github.com/aerleon/aerleon), [Caprica](https://github.com/google/capirca), [Netspoc](https://github.com/hknutzen/Netspoc) | | |
 | Chronos | [dKron](https://dkron.io/) |
 | Codemod | [Codemod](https://github.com/facebook/codemod) |
 | Configerator | [Protoconf](https://github.com/protoconf/protoconf) | [AWS AppConfig](https://docs.aws.amazon.com/appconfig/latest/userguide/what-is-appconfig.html) | |
@@ -29,6 +29,7 @@ Inspired by: [xg2xg](https://github.com/jhuangtw-dev/xg2xg), [Venkat V Note (pri
 | FBNet fcr | [FCR](https://github.com/facebookincubator/FCR) |
 | FBpush | [FBpush](https://github.com/facebookarchive/fbpush) |
 | FBTrace | [Jaegar](https://www.jaegertracing.io/), [Zipkin](https://zipkin.io/), [LightStep](https://lightstep.com/) |
+| FBurl | [Shlink](https://shlink.io/), [YOURLS](https://yourls.org/) | | Self hosted URL shortener |
 | FOQS | [Apache Pulsar](https://pulsar.apache.org/), [RabbitMQ](https://www.rabbitmq.com/) | [Google PubSub](https://cloud.google.com/pubsub), [Amazon SQS](https://aws.amazon.com/sqs/)| Similar to Iris, but more general. Used to support [FB's Async Tier](https://engineering.fb.com/2021/02/22/production-engineering/foqs-scaling-a-distributed-priority-queue/#:~:text=Async%20(Facebook%E2%80%99s%20asynchronous%20compute%20platform)).|
 | Entities        | [ent](https://entgo.io/docs/getting-started/) |
 | Excalidraw | [Excalidraw](https://excalidraw.com/)| |
