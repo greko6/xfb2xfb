@@ -29,6 +29,7 @@ Inspired by: [xg2xg](https://github.com/jhuangtw-dev/xg2xg), [Venkat V Note (pri
 | FBNet fcr | [FCR](https://github.com/facebookincubator/FCR) |
 | FBpush | [FBpush](https://github.com/facebookarchive/fbpush) |
 | FBTrace | [Jaegar](https://www.jaegertracing.io/), [Zipkin](https://zipkin.io/), [LightStep](https://lightstep.com/) |
+| FBurl | [Shlink](https://shlink.io/), [YOURLS](https://yourls.org/) | | Self hosted URL shortener |
 | FOQS | [Apache Pulsar](https://pulsar.apache.org/), [RabbitMQ](https://www.rabbitmq.com/) | [Google PubSub](https://cloud.google.com/pubsub), [Amazon SQS](https://aws.amazon.com/sqs/)| Similar to Iris, but more general. Used to support [FB's Async Tier](https://engineering.fb.com/2021/02/22/production-engineering/foqs-scaling-a-distributed-priority-queue/#:~:text=Async%20(Facebook%E2%80%99s%20asynchronous%20compute%20platform)).|
 | Entities        | [ent](https://entgo.io/docs/getting-started/) |
 | Excalidraw | [Excalidraw](https://excalidraw.com/)| |
