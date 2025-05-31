@@ -49,6 +49,7 @@ Inspired by: [xg2xg](https://github.com/jhuangtw-dev/xg2xg), [Venkat V Note (pri
 | NetNorad | [NetNorad](https://github.com/fbsamples/OpenNetNorad) |
 | ODS             | [Prometheus](https://prometheus.io/) | [SignalFX](https://www.signalfx.com/), [Datadog](https://www.datadoghq.com/), [Splunk](https://www.splunk.com/), [Wavefront](https://www.wavefront.com/) |
 | Open/R  | [Open/R](https://github.com/facebook/openr)   |
+| Pastry | [mojopaste](https://github.com/jhthorsen/app-mojopaste), [nopaste](https://github.com/karenetheridge/App-Nopaste) | | Self hosted pastebin. Pastebin cli |
 | pfff            | [pfff](https://github.com/returntocorp/pfff)
 | Phabricator     | [Phorge](https://we.phorge.it), [Graphite](https://graphite.dev), [Phabricator](https://phacility.com/phabricator/)| | Phabricator is no longer maintained [as of 2021](https://admin.phacility.com/phame/post/view/11/phacility_is_winding_down_operations/)|
 | Presto | [Trino](https://trino.io), [PrestoDB](https://prestodb.io/) | [Starburst](https://starburst.io) | |
