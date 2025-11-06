@@ -1,5 +1,5 @@
 # xfb2xfb (https://github.com/greko6/xfb2xfb)
-by ex-Facebookers, for ex-Facebookers - a lookup table of similar tech &amp; services
+by ex-Facebookers, for ex-Facebookers (aka Metamates) - a lookup table of similar tech &amp; services
 
 No confidental projects, please.
 
