@@ -9,6 +9,7 @@ Inspired by: [xg2xg](https://github.com/jhuangtw-dev/xg2xg), [Venkat V Note (pri
 
 |Facebook Internal|Open Source / Real-World|Cloud / Commercial|Notes|
 |---|---|---|---|
+|Alert Manager|[Thruk](https://thruk.org)|||
 |Bento|[Zeppelin](https://zeppelin.apache.org/), [Jupyter](https://jupyter.org/)|[Databricks](https://www.databricks.com/)||
 |Buck|[Buck](https://buck.build/), [Pants](https://www.pantsbuild.org/), [Bazel](https://bazel.build/)|||
 |BunnyLOL|[Jack Bunny](https://github.com/evensi/jack_bunny), [Gopherlol](https://github.com/markusdosch/gopherlol)|||
