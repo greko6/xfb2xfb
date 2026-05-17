@@ -56,7 +56,7 @@ Inspired by: [xg2xg](https://github.com/jhuangtw-dev/xg2xg), [Venkat V Note (pri
 |Open/R|[Open/R](https://github.com/facebook/openr)|||
 |Pastry|[mojopaste](https://github.com/jhthorsen/app-mojopaste), [nopaste](https://github.com/karenetheridge/App-Nopaste)||Self hosted pastebin. Pastebin cli|
 |pfff|[pfff](https://github.com/returntocorp/pfff)|||
-|Phabricator|[Phorge](https://we.phorge.it), [Graphite](https://graphite.dev), [Phabricator](https://phacility.com/phabricator/), [Gerrit](https://www.gerritcodereview.com/), [GitLab CE](https://about.gitlab.com/install/), [Gitea](https://gitea.io/), [Crucible](https://www.atlassian.com/software/crucible)|[GitHub Enterprise](https://github.com/enterprise), [GitLab Premium](https://about.gitlab.com/pricing/), [Bitbucket](https://bitbucket.org/product), [Azure DevOps](https://azure.microsoft.com/en-us/products/devops/)|Phabricator is no longer maintained as of 2021. Arcanist and JellyFish are related.|
+|Phabricator|[Phorge](https://we.phorge.it), [Graphite](https://graphite.dev), [Phabricator](https://phacility.com/phabricator/), [Gerrit](https://www.gerritcodereview.com/), [GitLab CE](https://about.gitlab.com/install/), [Gitea](https://gitea.io/), [Crucible](https://www.atlassian.com/software/crucible)|[GitHub Enterprise](https://github.com/enterprise), [GitLab Premium](https://about.gitlab.com/pricing/), [Bitbucket](https://bitbucket.org/product), [Azure DevOps](https://azure.microsoft.com/en-us/products/devops/)|Phabricator is no longer maintained as of 2021.|
 |Presto|[Trino](https://trino.io/), [PrestoDB](https://prestodb.io/)|[Starburst](https://starburst.io/)||
 |PSC||[Lattice](https://lattice.com/)||
 |Pulse Surveys||[Peakon](https://peakon.com/), [Glint](https://www.glintinc.com/)||
