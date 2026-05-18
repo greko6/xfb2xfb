@@ -47,6 +47,7 @@ Inspired by: [xg2xg](https://github.com/jhuangtw-dev/xg2xg), [Venkat V Note (pri
 |Internal Messenger||[Workplace](https://www.facebook.com/workplace), [Slack](https://slack.com/), [Threads](https://threads.com/) (exfb), [Discord](https://discord.com/), [TeamChat](https://www.icewarp.com)||
 |Internal Profiles||[Pingboard](https://pingboard.com/)||
 |Iris|[Apache Kafka](https://kafka.apache.org/), [NATS](https://nats.io/), [Apache ActiveMQ](https://activemq.apache.org/), [Apache Pulsar](https://pulsar.apache.org/), [Redis Streams](https://redis.io/docs/latest/develop/data-types/streams/)|[Google PubSub](https://cloud.google.com/pubsub), [Amazon SNS](https://aws.amazon.com/sns/), [Azure Service Bus](https://azure.microsoft.com/en-us/services/service-bus/), [AWS EventBridge](https://aws.amazon.com/eventbridge/), [Confluent Cloud](https://www.confluent.io/get-started/)|Similar to FOQS but heavier emphasis on sending messages|
+|JellyFish||[SugarJar](https://github.com/jaymzh/sugarjar)|aka jf. Related arc, The Arcanist|
 |Mattermost|[Mattermost](https://mattermost.com/), [Rocket.chat](https://www.rocket.chat/), [Zulip](https://zulip.com)|[Mattermost](https://mattermost.com/), [Zulip](https://zulip.com)|MM has an AGPL and commercial version|
 |Mercurial -> Git|[git branchless](https://github.com/arxanas/git-branchless), [hg-git](http://hg-git.github.io/)||git branchless adds some of the features you know and love from Mercurial to git|
 |Mermaid|[Graphviz](https://www.graphviz.org/), [Mermaid](http://mermaid.js.org), [Kroki](https://kroki.io/)|||
@@ -55,7 +56,7 @@ Inspired by: [xg2xg](https://github.com/jhuangtw-dev/xg2xg), [Venkat V Note (pri
 |Open/R|[Open/R](https://github.com/facebook/openr)|||
 |Pastry|[mojopaste](https://github.com/jhthorsen/app-mojopaste), [nopaste](https://github.com/karenetheridge/App-Nopaste)||Self hosted pastebin. Pastebin cli|
 |pfff|[pfff](https://github.com/returntocorp/pfff)|||
-|Phabricator|[Phorge](https://we.phorge.it), [Graphite](https://graphite.dev), [Phabricator](https://phacility.com/phabricator/), [Gerrit](https://www.gerritcodereview.com/), [GitLab CE](https://about.gitlab.com/install/), [Gitea](https://gitea.io/), [Crucible](https://www.atlassian.com/software/crucible)|[GitHub Enterprise](https://github.com/enterprise), [GitLab Premium](https://about.gitlab.com/pricing/), [Bitbucket](https://bitbucket.org/product), [Azure DevOps](https://azure.microsoft.com/en-us/products/devops/)|Phabricator is no longer maintained as of 2021|
+|Phabricator|[Phorge](https://we.phorge.it), [Graphite](https://graphite.dev), [Phabricator](https://phacility.com/phabricator/), [Gerrit](https://www.gerritcodereview.com/), [GitLab CE](https://about.gitlab.com/install/), [Gitea](https://gitea.io/), [Crucible](https://www.atlassian.com/software/crucible)|[GitHub Enterprise](https://github.com/enterprise), [GitLab Premium](https://about.gitlab.com/pricing/), [Bitbucket](https://bitbucket.org/product), [Azure DevOps](https://azure.microsoft.com/en-us/products/devops/)|Phabricator is no longer maintained as of 2021.|
 |Presto|[Trino](https://trino.io/), [PrestoDB](https://prestodb.io/)|[Starburst](https://starburst.io/)||
 |PSC||[Lattice](https://lattice.com/)||
 |Pulse Surveys||[Peakon](https://peakon.com/), [Glint](https://www.glintinc.com/)||
