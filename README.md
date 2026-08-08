@@ -88,4 +88,8 @@ Inspired by: [xg2xg](https://github.com/jhuangtw-dev/xg2xg), [Venkat V Note (pri
 |CWS, Async workflow|[Temporal](https://temporal.io/), [Argo Workflows](https://argoproj.github.io/argo-workflows/), [Cadence](https://cadenceworkflow.io/)|[AWS Step Functions](https://docs.aws.amazon.com/step-functions/index.html), [Azure Logic Apps](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-overview), [Google Cloud Workflows](https://cloud.google.com/workflows)|Frameworks for implementing complex, asynchronous workflows through coordinating steps with dependencies and error handling|
 
 ## Star History
-[![Star History Chart](https://api.star-history.com/svg?repos=greko6/xfb2xfb&type=Date)](https://star-history.com/#greko6/xfb2xfb&Date)
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=greko6/xfb2xfb&type=date&theme=dark&legend=top-left&sealed_token=-If5Q_I5A5YEyrNFoY0Ioe0nGdYH42xqNnK-eVsBbjXpPUvkVUDTTfEUd1oOzLoroRm4WachyzACELfUgbQTepORlu-mLF5IAE8TVr3oSBPLz0lRltbpYkHU0F62VSSUIOZOcOgWyrJsE2T5dvJoKuNVSxrpqNjiHZ6EX97u9Ofcege56-9pN9HuTKuJ" />
+<source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=greko6/xfb2xfb&type=date&legend=top-left&sealed_token=-If5Q_I5A5YEyrNFoY0Ioe0nGdYH42xqNnK-eVsBbjXpPUvkVUDTTfEUd1oOzLoroRm4WachyzACELfUgbQTepORlu-mLF5IAE8TVr3oSBPLz0lRltbpYkHU0F62VSSUIOZOcOgWyrJsE2T5dvJoKuNVSxrpqNjiHZ6EX97u9Ofcege56-9pN9HuTKuJ" />
+<img alt="Star History Chart" src="https://api.star-history.com/chart?repos=greko6/xfb2xfb&type=date&legend=top-left&sealed_token=-If5Q_I5A5YEyrNFoY0Ioe0nGdYH42xqNnK-eVsBbjXpPUvkVUDTTfEUd1oOzLoroRm4WachyzACELfUgbQTepORlu-mLF5IAE8TVr3oSBPLz0lRltbpYkHU0F62VSSUIOZOcOgWyrJsE2T5dvJoKuNVSxrpqNjiHZ6EX97u9Ofcege56-9pN9HuTKuJ" />
+</picture>
