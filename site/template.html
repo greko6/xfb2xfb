@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'none'; style-src 'unsafe-inline'; base-uri 'none'; form-action 'none'">
+  <title>xfb2xfb — Technology lookup</title>
+  <style>{{styles}}</style>
+</head>
+<body>
+  <main>
+    <header class="intro">
+      <div>
+        <h1>xfb<span>2</span>xfb</h1>
+        <p>By ex-Facebookers, for ex-Facebookers.<br>A lookup table of similar tech &amp; services.</p>
+      </div>
+      <a class="source" href="{{repository}}">View on GitHub <span aria-hidden="true">↗</span></a>
+    </header>
+    <div class="table-heading">
+      <h2 id="technology">Technology <span class="count">{{count}}</span></h2>
+      <p id="scroll-hint">Scroll the table · Column headers stay in view</p>
+    </div>
+    <div class="table-scroll" role="region" aria-labelledby="technology" aria-describedby="scroll-hint" tabindex="0">
+      {{table}}
+    </div>
+  </main>
+</body>
+</html>

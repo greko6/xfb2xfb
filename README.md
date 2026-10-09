@@ -1,6 +1,11 @@
 # xfb2xfb (https://github.com/greko6/xfb2xfb)
 by ex-Facebookers, for ex-Facebookers (aka Metamates) - a lookup table of similar tech &amp; services
 
+[Browse with sticky headers](../../actions/workflows/pages.yml) — open the latest
+successful run, then its **github-pages** website link. This shortcut follows the
+current repository, so forks open their own site after enabling Pages. A direct
+site link is also available in the repository's **About** section when configured.
+
 No confidental projects, please.
 
 Inspired by: [xg2xg](https://github.com/jhuangtw-dev/xg2xg), [Venkat V Note (private)](https://www.facebook.com/notes/ex-facebook-engineering/fb-like-tools-in-the-wild/1532125283574600/), [Martin K Post (private)](https://www.facebook.com/groups/exfaceeng/permalink/1531752523611876/)
@@ -86,6 +91,52 @@ Inspired by: [xg2xg](https://github.com/jhuangtw-dev/xg2xg), [Venkat V Note (pri
 |Workplace||[HumHub](https://www.humhub.com/), [Basecamp](https://basecamp.com/), [Whaller](https://whaller.com/)||
 |ZippyDB|[Badger (Dgraph)](https://github.com/dgraph-io/badger), [RocksDB](https://rocksdb.org/), [LevelDB](https://github.com/google/leveldb), [Redis](https://redis.io/), [Apache Cassandra](https://cassandra.apache.org/)|[CockroachDB](https://www.cockroachlabs.com/), [Consul (Hashicorp)](https://www.consul.io/), [Etcd](https://etcd.io/), [Amazon DynamoDB](https://aws.amazon.com/dynamodb/), [Azure Cosmos DB](https://azure.microsoft.com/en-us/products/cosmos-db/), [Google Cloud Firestore](https://cloud.google.com/firestore), [MongoDB Atlas](https://www.mongodb.com/atlas/database)|Key-Value stores based on Raft which scale horizontally. Cockroach is sharded. Consul provides service discovery.|
 |CWS, Async workflow|[Temporal](https://temporal.io/), [Argo Workflows](https://argoproj.github.io/argo-workflows/), [Cadence](https://cadenceworkflow.io/)|[AWS Step Functions](https://docs.aws.amazon.com/step-functions/index.html), [Azure Logic Apps](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-overview), [Google Cloud Workflows](https://cloud.google.com/workflows)|Frameworks for implementing complex, asynchronous workflows through coordinating steps with dependencies and error handling|
+
+## Table viewer
+
+GitHub's README renderer strips custom CSS, so sticky headers require a separate
+webpage. This viewer renders the Technology table above directly from this file;
+keep editing the Markdown table to update its contents.
+
+The viewer follows your device's light or dark appearance automatically, including
+the sticky header, links, row highlights, and scrollbars. Printing uses light colors.
+
+### Publish your fork
+
+1. In your fork, open **Settings → Pages** and select **GitHub Actions** as the
+   build source.
+2. Open **Actions** and enable workflows if GitHub asks.
+3. Run **Publish table to Pages** from your default branch. Future pushes to that
+   branch rebuild and publish the site automatically.
+4. Open the deployment URL shown in the workflow or the repository's
+   **Deployments** section. You can also add it to the repository's **About →
+   Website** field for a direct link.
+
+The README uses a relative workflow link because GitHub does not substitute
+repository names into Markdown links. It stays within the current fork, is visible
+without signing in, and leads to the site's actual deployment URL, including custom
+Pages domains. A fork without Pages enabled has no published site yet.
+
+The site's **View on GitHub** link uses `GITHUB_REPOSITORY` during the workflow
+build. Local builds use the `origin` remote, falling back to the original repository
+when no Git metadata is available. Set `GITHUB_REPOSITORY=owner/repo` to override it.
+
+### Run locally
+
+With Node.js 20 or newer installed:
+
+```sh
+npm ci
+npm start
+```
+
+Open <http://127.0.0.1:4173> and scroll inside the table. Its column headers stay
+visible, including when scrolling horizontally on a narrow screen. The table can
+also be focused with Tab and scrolled with the arrow keys or Page Down.
+
+`npm run build` creates a self-contained `dist/index.html` that can be opened
+directly or served by a static host such as GitHub Pages. It needs no browser
+JavaScript or network access. Rebuild after changing the table.
 
 ## Star History
 <picture>
